@@ -1,6 +1,8 @@
 
 ### Learning
 
+- [Microsoft Virtual Academy](https://mva.microsoft.com/LearningPaths.aspx)
+- [Learn to code with live streams from the best developers!](https://medium.com/swlh/learn-to-code-with-live-streams-from-the-best-developers-932dcfdbb87)
 - [6 Easy Steps to Learn Naive Bayes Algorithm (with code in Python)](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 - [Alison | Free Online Courses & Online Learning](https://alison.com/)
 - [Channel 9: Videos for developers from the people building Microsoft Products & Services](https://channel9.msdn.com/)
@@ -33,4 +35,3 @@
 - [Tyler McGinnis](https://tylermcginnis.com/)
 - [Welcome to OzoBlockly](http://ozoblockly.com/)
 - [What is a Fourier Series? (Explained by drawing circles) - Smarter Every Day 205 - YouTube](https://www.youtube.com/watch?v=ds0cmAV-Yek)
-- [Word Embeddings: An NLP Crash Course](https://www.datascience.com/resources/notebooks/word-embeddings-in-python)

@@ -1,17 +1,29 @@
 
 ### Dev
 
+### Resources
+
+- [noopkat - Twitch](https://www.twitch.tv/noopkat)
+- [Orange – Data Mining Fruitful & Fun](https://orange.biolab.si/)
+- [NetworkX — hvPlot 0.4.0 documentation](https://hvplot.pyviz.org/user_guide/NetworkX.html)
+- [The Algorithms · GitHub](https://github.com/TheAlgorithms)
+- [Microsoft · GitHub](https://github.com/Microsoft?utf8=%E2%9C%93&q=python&type=&language=)
+- [GitHub Guides](https://guides.github.com/)
+
 ### Architecture
 
+- [.NET Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/index)
+- [.NET Documentation | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/index)
 - [.NET Application Architecture Guidance](https://www.microsoft.com/net/learn/architecture)
+- [.NET Application Architecture - Reference Apps · GitHub](https://github.com/dotnet-architecture)
 - [rafaelfgx/DotNetCoreArchitecture: Architecture with .NET Core 2.2, C#, ASP.NET Core, Entity Framework Core, Angular 8, Clean Code, SOLID, DDD, Code Analysis and Docker.](https://github.com/rafaelfgx/DotNetCoreArchitecture)
 - [Enterprise Application Architecture with .NET Core - PDF eBook | Now just $5](https://www.packtpub.com/application-development/enterprise-application-architecture-net-core)
 - [akkadotnet/akka.net: Port of Akka actors for .NET](https://github.com/akkadotnet/akka.net)
 - [Authoritative guide to CORS (Cross-Origin Resource Sharing) for REST APIs Moesif’s Musings on Software](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
-
 - [The Twelve-Factor App](https://www.12factor.net/backing-services)
 - [Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/)
 - [facebook/flux: Application Architecture for Building User Interfaces](https://github.com/facebook/flux)
+- [Download .NET Microservices Architecture e-book](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook)
 - [WSO2Con ASIA 2016: Pattern-Driven Enterprise Architecture: Applying P…](https://www.slideshare.net/wso2.org/wso2con-asia-2016-patterndriven-enterprise-architecture-applying-patterns-in-your-architecture)
 - [Software architecture patterns - O'Reilly Media](https://www.oreilly.com/ideas/software-architecture-patterns/page/1/introduction)
 - [Search · architecture](https://github.com/search?l=C%23&q=architecture&type=Repositories)
@@ -20,8 +32,9 @@
 - [eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow)
 - [Common web application architectures | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures)
 - [Repository Pattern | DevIQ](https://deviq.com/repository-pattern/)
-- [.NET Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/index)
-- [.NET Documentation | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/index)
+- [Microkernel Architecture - Sök på Google](https://www.google.com/search?q=Microkernel+Architecture&rlz=1C1GCEU_enSE824SE824&oq=Microkernel+Architecture&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+- [Software architecture patterns - O'Reilly Media](https://www.oreilly.com/ideas/software-architecture-patterns/page/4/microkernel-architecture?source=post_page---------------------------)
+- [Plug-in Architecture - OmarElGabry's Blog - Medium](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)
 - [Born for it](https://martinfowler.com/articles/born-for-it.html)
 
 ### Clean Architecture
@@ -34,15 +47,6 @@
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together – @herbertograca](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [A quick introduction to clean architecture – freeCodeCamp.org](https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2)
 
-### Microkernel Architecture
-
-- [Microkernel Architecture - Sök på Google](https://www.google.com/search?q=Microkernel+Architecture&rlz=1C1GCEU_enSE824SE824&oq=Microkernel+Architecture&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
-- [Software architecture patterns - O'Reilly Media](https://www.oreilly.com/ideas/software-architecture-patterns/page/4/microkernel-architecture?source=post_page---------------------------)
-- [Plug-in Architecture - OmarElGabry's Blog - Medium](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)
-
-### Microservices
-
-- [Download .NET Microservices Architecture e-book](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook)
 
 ### Clean Code
 
@@ -50,59 +54,6 @@
 - [thangchung/clean-code-dotnet: Clean Code concepts and tools adapted for .NET](https://github.com/thangchung/clean-code-dotnet)
 - [Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books](https://www.amazon.com/gp/product/0735619670/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=smallbusin007-20&creative=9325&linkCode=as2&creativeASIN=0735619670&linkId=bfd56f3e68c0e5fcb1c41e018312c745)
 - [ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript?utm_source=javascriptweekly&utm_medium=email)
-
-### Read
-
-- [.NET Blogs to Follow - The Ultimate List | elmah.io](https://blog.elmah.io/net-blogs-to-follow-the-ultimate-list/)
-- [6\. The Berkun Blog](http://scottberkun.com/blog/)
-- [A List Apart – For people who make websites](https://alistapart.com/)
-- [Clean Coder Blog](http://blog.cleancoder.com/)
-- [CodeBetter.Com - Stuff you need to Code Better!](http://codebetter.com/)
-- [Coding Horror](https://blog.codinghorror.com/)
-- [DZone: Programming & DevOps news, tutorials & tools](https://dzone.com/)
-- [Getting Started](https://jasmine.github.io/pages/getting_started.html)
-- [Joel on Software](https://www.joelonsoftware.com/)
-- [Kenneth Reitz](https://www.kennethreitz.org/)
-- [Mike Bostock](https://bost.ocks.org/mike/)
-- [Visual Studio Magazine Home -- Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
-- [Free Code Camp](https://medium.freecodecamp.com/)
-- [Stack Exchange](https://stackexchange.com/)
-- [Reddit Programming](https://www.reddit.com/r/programming/)
-- [Developers Forum](http://www.webdeveloper.com/forum/)
-- [WebDevelopers](https://www.webdeveloper.com/)
-- [Reddit](http://www.reddit.com/r/programming)
-- [Hacker News](https://news.ycombinator.com/)
-- [CodeProject](http://www.codeproject.com/)
-- [DaniWeb](http://www.daniweb.com/)
-- [Dream In Code](http://www.dreamincode.net/forums/)
-- [Lobsters](https://lobste.rs/)
-- [OpenDev: Free Software Needs Free Tools](https://opendev.org/)
-- [Jupyter Blog](https://blog.jupyter.org/)
-
-### DevChats
-
-- [Discord](https://discordapp.com/invite/HBherRA)
-- [webpack/webpack - Gitter](https://gitter.im/webpack/webpack?source=explore)
-- [pydata/pandas - Gitter](https://gitter.im/pydata/pandas?source=explore)
-- [scikit-learn/scikit-learn - Gitter](https://gitter.im/scikit-learn/scikit-learn?source=explore)
-- [Gitter — Explore](https://gitter.im/explore/tags/curated:data-science)
-- [Trello](https://trello.com/)
-
-### PodCasts
-
-- [Pocket Casts](https://play.pocketcasts.com/)
-- [The Changelog](https://changelog.com/podcast/)
-- [FiveJS](https://fivejs.codeschool.com/)
-- [5by5 | The Big Web Show](http://5by5.tv/bigwebshow)
-- [Home - Radiolab](http://www.radiolab.org/)
-- [Software Engineering Radio](http://www.se-radio.net/)
-- [pod|fanatic | Podcast: Actual Innocence](https://podfanatic.com/podcast/actual-innocence)
-- [Unsolved Podcast](http://www.unsolvedpodcast.com/)
-- [The Message](http://themessagepodcast.com/)
-- [This Developing Story](https://developingstory.netlify.com/)
-- [The Changelog with Adam Stacoviak and Jerod Santo | Changelog](https://changelog.com/podcast)
-- [JSJ Episodes](https://devchat.tv/js-jabber)
-- [Learning Machines 101: A Gentle Introduction to Artificial Intelligence and Machine Learning](http://www.learningmachines101.com/)
 
 ### FOSS License
 
@@ -212,3 +163,43 @@
 - [Oro](https://github.com/oroinc/)
 - [oroinc/platform: Main OroPlatform package with core functionality.](https://github.com/oroinc/platform)
 - [Search · cdr rating](https://github.com/search?q=cdr+rating)
+
+
+
+### API
+
+- [Apollo GraphQL | Learn about the Apollo platform: Client, Engine, GraphQL servers, GraphQL support, and more.](https://www.apollographql.com/)
+- [GitHub - RSuter/NSwag: The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript.](https://github.com/RSuter/NSwag)
+
+### Tools & Dev Technology
+
+- [RxJS 5 Thinking Reactively | Ben Lesh - YouTube](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
+- [ansible/ansible: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain E](https://github.com/ansible/ansible)
+- [Git How To: Guided Git Tutorial](https://githowto.com/)
+- [Learn the DSDM principles | Free colour infographic](https://www.knowledgetrain.co.uk/resources/practice/the-dsdm-principles)
+- [List of the Best Free Visual Studio Extensions | elmah.io](https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/)
+- [Microsoft Word - SQLDeveloperDataModelerOverview.doc](http://www.oracle.com/technetwork/developer-tools/datamodeler/sqldeveloperdatamodeleroverview-167687.html)
+- [OMG SysML Home | OMG Systems Modeling Language](http://www.omgsysml.org/)
+- [Overview - pgAdmin 4 - Redmine - PostgreSQL community](https://redmine.postgresql.org/projects/pgadmin4)
+- [Tutorial: Data Modeling for a Small Database](https://docs.oracle.com/cd/E15276_01/doc.20/e13677/tut_data_modeling.htm)
+- [Postgres EXPLAIN Visualizer (pev)](http://tatiyants.com/pev/#/plans/new)
+- [PostgreSQL: Software Catalogue - Administration/development tools](https://www.postgresql.org/download/products/1-administrationdevelopment-tools/)
+- [Replacing EAV with JSONB in PostgreSQL](http://coussej.github.io/2016/01/14/Replacing-EAV-with-JSONB-in-PostgreSQL/)
+- [Scrum Essential Cards](http://ss.ivarjacobson.com.pages.services/essential-scrum?ts=1528896470457)
+- [Shipit](https://github.com/shipitjs)
+- [Sqitch by theory](https://sqitch.org/)
+- [sql - Import Excel Data into PostgreSQL 9.3 - Stack Overflow](http://stackoverflow.com/questions/20039856/import-excel-data-into-postgresql-9-3)
+- [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)
+- [Visual Studio Code - Tips & Tricks Vol. 1](file:///C:/Users/roma0050/Downloads/VisualStudioCode-TipsAndTricks-Vol.1.pdf)
+- [Tilt Brush by Google](https://www.tiltbrush.com/)
+- [ScreenToGif - Record your screen, edit and save as a Gif or video](https://www.screentogif.com/)
+
+### Server Infrastructure
+
+- [Molnbaserad virt. server | SUNET](https://www.sunet.se/tjanster/virtuell-server-i-molnet/)
+- [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
+- [Riksbankens Jubileumsfond | Tyck till om infrastruktur för humaniora](https://rj.se/Forskningsnyheter/2018/tyck-till-om-infrastruktur-for-forskning/?fbclid=IwAR2Ow0QP9CXnJVDUoIlMw7t9ZdPgxtDOn6JPQGfGsRxJU9jqieH37D3UXp0)
+- [Start - Swedish National Infrastructure for Computing](http://snic.se/)
+- [Vector space model - Wikipedia](https://en.wikipedia.org/wiki/Vector_space_model)
+- [hashicorp/hcl: HCL is the HashiCorp configuration language.](https://github.com/hashicorp/hcl)
+
