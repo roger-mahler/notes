@@ -11,3 +11,5 @@
 - [icon3c1054.pdf](https://research.ijcaonline.org/icon3c/number7/icon3c1054.pdf)
 - [sa1\_sec3\_5\_3\_6.pdf](http://www.astro.gla.ac.uk/~martin/teaching/ada1/temp/sa1_sec3_5_3_6.pdf)
 - [schofield\_tacl\_2016.pdf](https://mimno.infosci.cornell.edu/papers/schofield_tacl_2016.pdf)
+
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)

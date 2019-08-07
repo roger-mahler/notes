@@ -1,0 +1,3 @@
+- [Ant Design - A UI Design Language](https://ant.design/)
+- [Front End Dev — Running before you can walk – Medium](https://medium.com/@denz_brade/front-end-dev-running-before-you-can-walk-d78a528915b#.3c0shj16x)
+- [Lev Manovich - home](http://manovich.net/)
