@@ -1,5 +1,13 @@
 {
     "[markdown]": {
         "editor.wordWrap": "off"
-      }
-}
+      },
+      "editor.quickSuggestions": false,
+      "editor.minimap.enabled": false,
+      "markdownlint.config": {
+        "default": true,
+        "MD003": { "style": "atx_closed" },
+        "MD007": { "indent": 4 },
+        "no-hard-tabs": false,
+        "headers": false
+    }}
