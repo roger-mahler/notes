@@ -34,6 +34,7 @@
 + [1.3 - Discrete Distributions | STAT 504](https://onlinecourses.science.psu.edu/stat504/node/209)
 + [StatQuest: Maximum Likelihood, clearly explained!!! - YouTube](https://www.youtube.com/watch?v=XepXtl9YKwc)
 + [The 7 best deep learning books you should be reading right now - PyImageSearch](https://www.pyimagesearch.com/2018/03/05/7-best-deep-learning-books-reading-right-now/)
++ [STAT notes](https://www.atmos.umd.edu/~ekalnay/syllabi/AOSC630/METO630ClassNotes3.pdf)
 
 ## Learning Machine Learning
 
@@ -56,7 +57,6 @@
 + [Lecture: Least-Squares Fitting Methods - YouTube](https://www.youtube.com/watch?v=3hz6Tb1i2FY)
 + [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-2?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_themed_17in2017_20171214&utm_term=Career%20learners%20%2B%20likely%20enrollers%20%2B%20active%20learners%20%28excluding%20disengaged%20learners%29)
 + [Malaikannan · The Deep Learning way of life](http://malaikannan.io/page2/)
-+ [mattilyra (Matti Lyra)](https://github.com/mattilyra)
 + [Maximum Likelihood Estimation – Quantitative Economics](https://lectures.quantecon.org/py/mle.html)
 + [Performance Shootout of Nearest Neighbours: Intro | RARE Technologies](https://rare-technologies.com/performance-shootout-of-nearest-neighbours-intro/)
 + [Predict employee leave - Build with Azure Machine Learning Studio](https://www.datachangers.com/predict-employee-leave/)
@@ -68,3 +68,7 @@
 + [Nick Bostrom - Wikipedia](https://en.wikipedia.org/wiki/Nick_Bostrom)
 + [Machine Learning Part 1 | SciPy 2016 Tutorial | Andreas Mueller & Sebastian Raschka - YouTube](https://www.youtube.com/watch?v=OB1reY6IX-o&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
 + [MCMC sampling for dummies](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
++ [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
++ [Step 2.5: Choose a Model  |  ML Universal Guides  |  Google Developers](https://developers.google.com/machine-learning/guides/text-classification/step-2-5?authuser=2)
++ [ujjwalkarn/Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
++ [NIPS 2016 Proceedings](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016)

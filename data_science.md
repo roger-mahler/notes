@@ -14,14 +14,12 @@
 + [Spark Notebook](http://spark-notebook.io/)
 + [Welcome - NumFOCUS](https://www.numfocus.org/)
 + [Towards Data Science](https://towardsdatascience.com/)
-+ [GitHub - karthenjamin/data_recipes](https://github.com/karthenjamin/data_recipes)
 
 # Learning
 
 + [priors.pdf](http://people.cs.umass.edu/~wallach/talks/priors.pdf)
 + [Welcome to STAT 504! | STAT 504](https://onlinecourses.science.psu.edu/stat504/)
 + [WINGS | Workflow INstance Generation and Selection](http://www.wings-workflows.org/)
-+ [GitHub - jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 + [The Split-Apply-Combine Strategy for Data Analysis](file:///C:/Users/roma0050/Downloads/v40i01.pdf)
 + [The Third Wave Data Scientist – Towards Data Science](https://towardsdatascience.com/the-third-wave-data-scientist-1421df7433c9)
 + [netology-code/data-scientist-course: Материалы офлайн-программы Data Scientist: примеры, домашние задания, лабораторные работы](https://github.com/netology-code/data-scientist-course)
@@ -34,3 +32,4 @@
 + [Digital technologies in the research process: Lessons from the ...](https://www.sciencedirect.com/science/article/pii/S0747563216302242)
 + [The Research Process - Qualitative Pathway](https://www.pinterest.com/pin/149322543874112132/)
 + [interpretation - K-means clustering on the output of t-SNE - Cross Validated](https://stats.stackexchange.com/questions/263539/k-means-clustering-on-the-output-of-t-sne)
++ [7 command-line tools for data science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)

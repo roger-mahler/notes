@@ -394,7 +394,6 @@
 + [arxiv.org/ftp/arxiv/papers/1204/1204.0191.pdf](http://arxiv.org/ftp/arxiv/papers/1204/1204.0191.pdf)
 + [www.l3s.de/~tahmasebi/Diplomarbeit\_Niklas.pdf](http://www.l3s.de/~tahmasebi/Diplomarbeit_Niklas.pdf)
 + [From keyword searching to concept mining – Pim Huijnen's blog](http://pimhuijnen.com/2015/12/04/from-keyword-searching-to-concept-mining/#more-1170)
-+ [kjordahl (Kelsey Jordahl) · GitHub](https://github.com/kjordahl)
 + [lamvi - Language Model Visual Inspector](http://ronxin.github.io/lamvi/dist/#model=word2vec&backend=browser&query_in=darcy&query_out=G_bennet,B_circumstances)
 + [tcool / nlpviz-batch · GitLab](https://gitlab.com/tcool/nlpviz-batch)
 + [sp0915-song.dvi](https://www.researchgate.net/profile/Yangqiu_Song/publication/220269735_Topic_and_keyword_re-ranking_for_LDA-based_topic_modeling/links/551e3c950cf29dcabb03a72e.pdf)
@@ -402,7 +401,7 @@
 + [NRC Emotion Lexicon](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
 + [A Survey of Text Classification Algorithms (paper)](https://pdfs.semanticscholar.org/4152/070bd6cd28cc44bc9e54ab3e641426382e75.pdf)
 
-#
+# Assorted
 
 + [Text Mining with R](https://www.tidytextmining.com/topicmodeling.html)
 + [PUB\_nlp/PUB\_NLP\_slides.ipynb at master · mattilyra/PUB\_nlp · GitHub](https://github.com/mattilyra/PUB_nlp/blob/master/PUB_NLP_slides.ipynb)
@@ -415,3 +414,13 @@
 + [ezubaric (Jordan Boyd-Graber)](https://github.com/ezubaric)
 + [Continuous Bag of Words (CBOW) – From Data to Decisions](https://iksinc.online/tag/continuous-bag-of-words-cbow/)
 + **[General Architecture for Text Engineering - Wikipedia](https://en.wikipedia.org/wiki/General_Architecture_for_Text_Engineering)**
++ [tesseract-ocr/tesseract (docker)](https://github.com/tesseract-ocr/tesseract/wiki/4.0-Docker-Containers)
++ [John Snow Labs - Spark NLP](https://nlp.johnsnowlabs.com/)
++ [JohnSnowLabs/spark-nlp: State of the Art Natural Language Processing](https://github.com/johnsnowlabs/spark-nlp)
++ [Top 10 Python Libraries for Natural Language Processing (2018)](https://kleiber.me/blog/2018/02/25/top-10-python-nlp-libraries-2018/)
++ [Top 10 Python NLP Libraries For 2019](https://www.analyticsindiamag.com/top-10-python-nlp-libraries-for-2019/)
++ [Word Embeddings — polyglot 16.07.04 documentation](https://polyglot.readthedocs.io/en/latest/Embeddings.html)
++ [Roundup of Python NLP Libraries - NLP-FOR-HACKERS](https://nlpforhackers.io/libraries/)
++ [Proceedings of the Workshop on Interactive Language Learning, Visualization, and Interfaces](https://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf)
++ [Research Blog: Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
++ [infect-dl-2014.pdf](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf)

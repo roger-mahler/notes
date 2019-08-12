@@ -8,7 +8,9 @@
 + [Enthought, Inc.](https://github.com/enthought)
 + [DevDocs API Documentation](http://devdocs.io/)
 
-## Architecture and Design
+-------------------
+
+# Architecture and Design
 
 + [.NET Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/index)
 + [.NET Documentation | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/index)
@@ -32,8 +34,17 @@
 + **[Plug-in Architecture - OmarElGabry's Blog - Medium](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)**
 + [Born for it](https://martinfowler.com/articles/born-for-it.html)
 + [Software architecture patterns](https://www.oreilly.com/ideas/software-architecture-patterns/page/1/introduction) [microkernel](https://www.oreilly.com/ideas/software-architecture-patterns/page/4/microkernel-architecture?source=post_page---------------------------) [event driven](https://www.oreilly.com/ideas/software-architecture-patterns/page/3/event-driven-architecture)
++ [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
++ [CQRS](https://martinfowler.com/bliki/CQRS.html)
++ [Event Sourcing with Lagom on GCP • Ido Shamun](https://shamun.dev/posts/2018-05-09_event-sourcing-with-lagom-on-gcp/)
++ [FluentValidation • Home](https://fluentvalidation.net/)
++ [Lagom Framework - Part of Lightbend Platform | @lightbend](https://www.lightbend.com/lagom-framework-part-of-lightbend-platform)
++ [Microservice Architecture: Aligning Principles, Practices, and Culture](https://pdfs.semanticscholar.org/5592/8ff1aca4d765ec7bab9d36efd42fd2b02839.pdf)
++ [Netflix Play API: Building an Evolutionary Architecture](https://www.infoq.com/news/2019/01/netflix-evolution-architecture/)
++ [Uncle Bob - Payroll Case Study (A full implementation)](http://cleancodejava.com/uncle-bob-payroll-case-study-full-implementation/)
++ [S.O.L.I.D- The First 5 Principles of Object Oriented Design - Scotch](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
-### Clean Architecture
+## Clean Architecture
 
 + **[Summary of Clean Architecture by Robert C. Martin](https://gist.github.com/ygrenzinger/14812a56b9221c9feca0b3621518635b)**
 + [A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles](https://github.com/matthewrenze/clean-architecture-demo)
@@ -42,33 +53,17 @@
 + [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together – @herbertograca](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 + [A quick introduction to clean architecture – freeCodeCamp.org](https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2)
 
-### Clean Code
+## Clean Code
 
 + **[Clean Code - Robert C. Martin - böcker (9780132350884) | Adlibris Bokhandel](https://www.adlibris.com/se/bok/clean-code-9780132350884)**
 + [thangchung/clean-code-dotnet: Clean Code concepts and tools adapted for .NET](https://github.com/thangchung/clean-code-dotnet)
 + [Code Complete: A Practical Handbook of Software](https://www.amazon.com/gp/product/0735619670/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=smallbusin007-20&creative=9325&linkCode=as2&creativeASIN=0735619670&linkId=bfd56f3e68c0e5fcb1c41e018312c745)
 + [ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript?utm_source=javascriptweekly&utm_medium=email)
 
-## FOSS License
-
-+ [python - Can pip (or setuptools, distribute etc...) list the license used by each installed package? - Stack Overflow](https://stackoverflow.com/questions/19086030/can-pip-or-setuptools-distribute-etc-list-the-license-used-by-each-install)
-+ [FOSSA - Pricing](https://fossa.com/pricing/)
-+ [Choosing a License — The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/license/)
-+ [Over 10% of Python Packages on PyPI are Distributed Without Any License | Snyk](https://snyk.io/blog/over-10-of-python-packages-on-pypi-are-distributed-without-any-license/)
-+ [Opensource.com | Opensource.com](https://opensource.com/)
-+ [When we share, everyone wins - Creative Commons](https://creativecommons.org/)
-+ **[Terms of Service; Didn't Read](https://tosdr.org/)**
-
 ## Periodicals & Blogs
 
-+ [About « CA: Journal of Cultural Analytics](http://culturalanalytics.org/about/)
-+ [This Week in Digital Humanities and Pedagogy /](https://jitp.commons.gc.cuny.edu/this-week-in-digital-humanities-and-pedagogy-16/)
-+ [Social Media Lab | "Making sense of a networked world"](http://socialmedialab.ca/)
 + [Data Science Journal](https://datascience.codata.org/)
-+ [Lesson Directory | Programming Historian](https://programminghistorian.org/lessons/)
 + [McSweeney’s Internet Tendency](https://www.mcsweeneys.net/)
-+ [Home | Hermeneuti.ca](http://hermeneuti.ca/)
-+ [Hacker Noon](https://hackernoon.com/)
 
 ### Journals
 
@@ -85,21 +80,31 @@
 + [Nordic Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics)
 + [Web of Science tidskrifter för humanister](https://www.aurora.umu.se/enheter/humfak/forskning/web-of-science-tidskrifter-for-humanister/)
 
-### Github
+## Git & Github
 
++ [The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.](https://github.blog/)
 + [GitHub Learning Lab](https://lab.github.com/)
 + [Git How To: Guided Git Tutorial](https://githowto.com/)
 + **[Git-it Workshop](https://github.com/jlord/patchwork)**
-+ [GitHub - theia-ide/theia: Theia is a cloud & desktop IDE framework implemented in TypeScript.](https://github.com/theia-ide/theia)
-+ [big-data-europe/demo-spark-sensor-data: Demo Spark application to transform data gathered on sensors for a heatmap application](https://github.com/big-data-europe/demo-spark-sensor-data)
-+ [COMHIS](https://github.com/COMHIS)
-+ [DigitalGeographyLab](https://github.com/DigitalGeographyLab)
-+ [dvt/dvt at master · distant-viewing/dvt](https://github.com/distant-viewing/dvt/tree/master/dvt)
-+ [jlonij (Juliette Lonij)](https://github.com/jlonij)
-+ [mycorpus/vis.py at master · nishio/mycorpus · GitHub](https://github.com/nishio/mycorpus/blob/master/vis.py)
-+ [pattern_classification](https://github.com/rasbt/pattern_classification)
++ [Numerous undo possibilities in Git | GitLab](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/)
++ [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
 
-### Tools & Dev Technology
+### Github repos to check out / keep in mind
+
++ [Stanford NLP](https://github.com/stanfordnlp)
++ [The New York Times](https://github.com/NYTimes)
++ [joshuacook (Joshua Cook) / Repositories](https://github.com/joshuacook?tab=repositories)
++ [big-data-europe/demo-spark-sensor-data: Demo Spark application to transform data gathered on sensors for a heatmap application](https://github.com/big-data-europe/demo-spark-sensor-data)
++ [pattern_classification](https://github.com/rasbt/pattern_classification)
++ [Trey Ideker Lab, UC, San Diego](https://github.com/idekerlab)
++ [Ben Lesh](https://github.com/benlesh) RxJS
++ [GitHub - karthenjamin/data_recipes](https://github.com/karthenjamin/data_recipes)
++ [mattilyra (Matti Lyra)](https://github.com/mattilyra)
++ [kjordahl (Kelsey Jordahl) · GitHub](https://github.com/kjordahl)
+
+-------------------
+
+# Tools / technology to check out
 
 + [RxJS 5 Thinking Reactively | Ben Lesh - YouTube](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
 + [Learn the DSDM principles](https://www.knowledgetrain.co.uk/resources/practice/the-dsdm-principles)
@@ -122,6 +127,66 @@
 + [jakubroztocil/httpie: Modern command line HTTP](https://github.com/jakubroztocil/httpie)
 + [Apollo GraphQL | Learn about the Apollo platform: Client, Engine, GraphQL servers, GraphQL support, and more.](https://www.apollographql.com/)
 + [RSuter/NSwag: The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript.](https://github.com/RSuter/NSwag)
++ [Travis CI - Test and Deploy with Confidence](https://travis-ci.com/auth?redirectUri=https%3A%2F%2Ftravis-ci.com%2Faccount%2Frepositories)
++ [EditorConfig](https://editorconfig.org/#download)
++ [egoist/devdocs-desktop: 🗂 A full-featured desktop app for DevDocs.io.](https://github.com/egoist/devdocs-desktop)
++ [WebVR - Bringing Virtual Reality to the Web](https://webvr.info/)
++ [SoS - Script of Script](https://vatlab.github.io/sos-docs/)
++ [k0kubun/Nocturn: Multi-platform Twitter Client built with React, Redux and Electron](https://github.com/k0kubun/Nocturn)
+
+-------------------
+
+## NET Core
+
++ **[aspnet/Home](https://github.com/aspnet/home)**
++ [C# Guide | Microsoft Docs](https://docs.microsoft.com/sv-se/dotnet/articles/csharp/)
++ [Docs/aspnetcore at master · aspnet/Docs · GitHub](https://github.com/aspnet/Docs/tree/master/aspnetcore)
++ [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
++ [Visual Studio Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Downloads)
++ [ASP.NET Community Standup](https://live.asp.net/)
++ [MSDN Blogs](http://blogs.msdn.com/)
++ [Channel 9: Videos for developers from the people building Microsoft Products & Services](https://channel9.msdn.com/)
+
+### Frameworks & Tools
+
++ [Entity Frameworks](https://docs.microsoft.com/en-us/ef/)
++ [Serilog](https://serilog.net/)
++ [abpframework/abp: ABP vNext](https://github.com/abpframework/abp)
++ [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-2.1&tabs=visual-studio)
++ [Blazor](https://github.com/aspnet/Blazor)
++ [Cake](https://cakebuild.net/)
++ [NancyFx/Nancy](https://github.com/NancyFx/Nancy)
++ **[IdentityServer4](http://docs.identityserver.io/en/latest/)**
+
+### Learning
+
++ [Class Libraries | ASP.NET Fall Sessions | Channel 9](https://channel9.msdn.com/Events/ASPNET-Events/ASPNET-Fall-Sessions/Class-Libraries)
++ [Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/)
++ [Microsoft Learning](https://github.com/MicrosoftLearning)
++ [Microsoft Open Technologies, Inc. · GitHub](https://github.com/MSOpenTech)
++ [ASP.NET - Single-Page Applications: Build Modern, Responsive Web Apps with ASP.NET](https://msdn.microsoft.com/en-us/magazine/dn463786.aspx)
++ [(1) Repository Pattern with C# and Entity Framework, Done Right - YouTube](https://www.youtube.com/watch?v=rtXpYpZdOzM)
++ [ASP.Net Core with Visual Studio Code ~ Siderite's Blog](https://siderite.blogspot.com/2016/07/aspnet-core-with-visual-studio-code.html)
++ [Get Started with ASP.NET Web API 2 (C#) | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
++ [Programming with Mosh - Learn .NET development from beginner to advanced](http://programmingwithmosh.com/)
++ [Build a web API with ASP.NET Core MVC and Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
++ [Configuring a DbContext | Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/miscellaneous/configuring-dbcontext)
++ [skimedic (Philip Japikse) / Repositories · GitHub](https://github.com/skimedic?tab=repositories)
++ [abpframework/abp: ABP vNext](https://github.com/abpframework/abp)
++ [(4) .NET Foundation - YouTube](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)
++ [Autofac and multiple implementations of an interface](http://edo-van-asseldonk.blogspot.se/2013/01/autofac-and-multiple-implementations-of.html)
++ [ASP.NET Community Standup - June 26, 2018 - HTTP REPL : dotnet](https://www.reddit.com/r/dotnet/comments/8vwiw1/aspnet_community_standup_june_26_2018_http_repl/)
++ [IdentityServer4, ASP.NET Core API and a client with username/password – George Kosmidis](https://blog.georgekosmidis.net/2019/02/08/identityserver4-asp-dotnet-core-api-and-a-client-with-username-password/?fbclid=IwAR0Aqs7GUjO-BRYInLFaV4hDEg4icYrrX-Vk9ZzgeUb4KA8dnGtcQ4tGObI)
++ [Learn to Code and Help Nonprofits | freeCodeCamp](https://www.freecodecamp.org/)
++ [Learn to code with live streams from the best developers!](https://medium.com/swlh/learn-to-code-with-live-streams-from-the-best-developers-932dcfdbb87)
++ [LearnCode.academy - YouTube](https://www.youtube.com/learncodeacademy/)
++ [Top 50 Free Online Courses of All Time | Class Central](https://www.class-central.com/collection/top-free-online-courses)
++ [kriasoft/aspnet-starter-kit](https://github.com/kriasoft/aspnet-starter-kit)
++ [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
++ [Open Learning - OpenLearn - Open University](http://www.open.edu/openlearn/)
++ [Packt | Programming Books, eBooks & Videos for Developers](https://www.packtpub.com/)
+
+-------------------
 
 ## DevOps / Infrastructure
 
@@ -136,6 +201,8 @@
 + [Google Cloud Platform](https://github.com/GoogleCloudPlatform) [Documentation](https://cloud.google.com/docs/) [Getting started](https://console.cloud.google.com/getting-started?project=axiomatic-genre-245810)
 + [roger-mahler - Microsoft Azure Notebooks](https://notebooks.azure.com/roger-mahler)
 + [Machine Learning Studio - Microsoft Azure](https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.MachineLearning%2FwebServices)
++ [Cloud Functions - Event-driven Serverless Computing  |  Cloud Functions  |  Google Cloud](https://cloud.google.com/functions/?authuser=2)
++ [Google Analytics Solutions | Data Studio](https://datastudio.withgoogle.com/)
 
 ### Docker
 
@@ -153,9 +220,8 @@
 + [Windows Containers](http://download.microsoft.com/download/a/1/3/a13a2b9e-d47c-4f93-b180-f7f9cd3382a7/introduction_to_containers_ebook.pdf)
 + [WinOps 2017 - Docker on Windows - from 101 to Production](https://www.slideshare.net/sixeyed/winops-2017-docker-on-windows-from-101-to-production)
 + [Singularity - Sylabs.io](https://www.sylabs.io/singularity/)
-
-## Other / Learning
-
++ [Docker in Docker? - ITNEXT](https://itnext.io/docker-in-docker-521958d34efd)
++ [docker-apache-php/7.2 at master · romeOz/docker-apache-php](https://github.com/romeOz/docker-apache-php/tree/master/7.2)
 
 ## Business FOSS
 

@@ -22,7 +22,6 @@
 + [ioam](https://pypi.org/user/ioam/)
 + [pattern](https://github.com/clips/pattern)
 + [csvkit](https://github.com/wireservice/csvkit)
-+ (for alternative to [tornado](http://www.tornadoweb.org/en/stable/) see [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python))
 + [intake](https://media.readthedocs.org/pdf/intake/latest/intake.pdf)
 + [dask](http://dask.pydata.org/en/latest/dataframe.html)
 + [pygsheets](https://github.com/nithinmurali/pygsheets)
@@ -35,11 +34,13 @@
 + [cufflinks](https://github.com/santosjorge/cufflinks)
 + [burnash/gspread](https://github.com/burnash/gspread) Google Spreadsheets Python API
 + [pyviz](http://pyviz.org/) [YouTube](https://www.youtube.com/watch?v=DGLi-UWReM8) [Tutorial](https://www.youtube.com/watch?v=aZ1G_Q7ovmc)
-+ [ibis-project/ibis: A pandas-like deferred expression system, with first-class SQL support (Impala, PostgreSQL, SQLite, ...)](https://github.com/ibis-project/ibis)
-+ [googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services](https://github.com/googlemaps/google-maps-services-python)
-+ [openeventdata/mordecai: Custom-built full text and event geoparsing](https://github.com/openeventdata/mordecai)
++ [ibis-project/ibis](https://github.com/ibis-project/ibis)
++ [googlemaps/google-maps-services-python](https://github.com/googlemaps/google-maps-services-python)
++ [openeventdata/mordecai geoparsing](https://github.com/openeventdata/mordecai)
++ [web2py.com](http://web2py.com/)
++ [Jinja | The Pallets Projects](https://palletsprojects.com/p/jinja/)
 
-# Learning
+## Learning
 
 + [YouTube](https://www.youtube.com/watch?v=G0rQ7AEl5LA)
 + [Python for Undergraduate Engineers](https://pythonforundergradengineers.com/index5.html)
@@ -49,8 +50,12 @@
 + [Mining Twitter Data with Python (Part 6 – Sentiment Analysis Basics) – Marco Bonzanini](https://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/)
 + [Pandas](https://www.youtube.com/watch?v=6Pzg-UY1VDg)
 
-# Other things to read
+## Other things to read
 
 + [What are some good Python projects on GitHub? - Quora](https://www.quora.com/What-are-some-good-Python-projects-on-GitHub)
 + [Best written projects on Python GitHub? : Python](https://www.reddit.com/r/Python/comments/1ls7vq/best_written_projects_on_python_github/)
 + [Python Web Servers: Comparison of Python Frameworks for Web Apps | DigitalOcean](https://www.digitalocean.com/community/tutorials/a-comparison-of-web-servers-for-python-based-web-applications)
++ [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
++ [datas-frame – Modern Pandas (Part 2): Method Chaining](http://tomaugspurger.github.io/method-chaining.html)
++ [Test & Code - Python Testing & Development](https://testandcode.com/)
++ [Presentations by PyCon 2019 - Speaker Deck](https://speakerdeck.com/pycon2019)
