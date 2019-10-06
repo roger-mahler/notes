@@ -31,7 +31,7 @@
 + [TAPoR](http://tapor.ca/tools)
 + [Desmos | Graphing Calculator](https://www.desmos.com/calculator)
 + [Charts | Google Developers](https://google-developers.appspot.com/chart/)
-+ [dhresourcesforprojectbuilding \[licensed for non-commercial use only\] / Digital Humanities Tools](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools)
++ [dhresourcesforprojectbuilding \ / Digital Humanities Tools](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools)
 + [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/)
 + [Mapping the emotions of London | Stanford News](http://news.stanford.edu/2017/03/20/mapping-emotions-london/)
 
@@ -52,3 +52,4 @@
 + [AltspaceVR Inc | Be there, together.](https://altvr.com/)
 + [Rejecting the gender binary: a vector-space operation](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)
 + [Caught Red-Handed: Toward Practical Video-Based Subsequences Matching in the Presence of Real-World Transformations](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w16/papers/Frahm_Caught_Red-Handed_Toward_CVPR_2017_paper.pdf)
+

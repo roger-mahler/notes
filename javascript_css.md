@@ -1,7 +1,4 @@
-
-# Javascript stuff to keep in mind
-
-# Frameworks / Libraries to check out
+# Javascript Libraries to check out
 
 + **[JS.coach - Search JS Libraries](https://js.coach/)**
 + **[koa.js](https://koajs.com/)** next generation web framework for node.js
@@ -75,6 +72,7 @@
 + [Mastering ReactJS: Writing Unit Tests for React Components | packtpub.com - YouTube](https://www.youtube.com/watch?v=bnWIBeImVKg)
 + [Collection: JavaScript Game Engines · GitHub](https://github.com/collections/javascript-game-engines)
 + [50 JavaScript Libraries and Plugins for Maps | TechSlides](http://techslides.com/50-javascript-libraries-and-plugins-for-maps)
++ [NodeJS Stuff](https://raw.githubusercontent.com/moklick/nodejs-stuff/master/README.md) (external)
 
 # CSS /SASS / LESS
 

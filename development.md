@@ -1,3 +1,55 @@
+# Inbox
+
++ [Code Complete, 2nd Ed. Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+* [Programmer Competency Matrix | Sijin Joseph](http://sijinjoseph.com/programmer-competency-matrix/)
+* [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [eduleboss/the-best-docker-books: Free Docker eBooks](https://github.com/eduleboss/the-best-docker-books)
+* [timofonic-otherdevstuff/ebooks-1: Collection of eBooks](https://github.com/timofonic-otherdevstuff/ebooks-1)
+* [Home - Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
+* [ASP.NET Core 2: Architecture & Design Pattern Ideology - Asma's Blog](https://www.asmak9.com/2018/07/aspnet-core-2-architecture-design.html)
+* [‘service bus’ pattern for .NET. - Sök på Google](https://www.google.com/search?q=%E2%80%98service%20bus%E2%80%99%20pattern%20for%20.NET.&tbm=isch&source=univ&sa=X&ved=2ahUKEwiiqYjnxorkAhVsposKHZRNAfUQsAR6BAgHEAE&biw=1920&bih=937&authuser=0#imgrc=feqKgxgie-iVoM:)
+* [Service Bus Patterns](http://www.cloudcasts.net/devguide/Default.aspx?id=11020)
+* [Sagas • NServiceBus • Particular Docs](https://docs.particular.net/nservicebus/sagas/)
+* [.NET Academy](https://dotnetcademy.net/Search)
+* [Recommended Reading for Developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+* [Six Little Lines of Fail - Jimmy Bogard - YouTube](https://www.youtube.com/watch?v=VvUdvte1V3s)
+* [untitled](https://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
+* [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+* [Implementing Clean Architecture - An Overview](http://www.plainionist.net/Implementing-Clean-Architecture-Overview/)
+* [postgres | Docker Documentation](https://docs.docker.com/samples/library/postgres/#-or-via-psql)
+* [mysql - Docker, AspNetCore, DB connection string best practices - Stack Overflow](https://stackoverflow.com/questions/49437336/docker-aspnetcore-db-connection-string-best-practices)
+* [danielrjames/dotnetcoredocker: https://medium.com/@danielrjames/host-nuxt-js-net-core-and-postgres-with-docker-nginx-and-https-1681d9bd0bbf](https://github.com/danielrjames/dotnetcoredocker)
+* [Host Nuxt.js, .Net Core, and Postgres with Docker, Nginx, and HTTPS](https://medium.com/@danielrjames/host-nuxt-js-net-core-and-postgres-with-docker-nginx-and-https-1681d9bd0bbf)
+* [brusalexandr/ebooks: Collection of eBooks](https://github.com/brusalexandr/ebooks)
+* [Summary of Clean Architecture by Robert C. Martin](https://gist.github.com/ygrenzinger/14812a56b9221c9feca0b3621518635b)
+* [Appleseed/search-stack: Appleseed Search Stack Docker composition. Uses Solr, Elasticsearch, MongoDB, Mono, DotNet, ASPNet, NGINX, MySQL, PostgreSQL](https://github.com/Appleseed/search-stack)
+* [AmrReda/nginx-dotnetcore-example: Nginx Reverse Proxy to ASP.NET Core – Separate Docker Containers](https://github.com/AmrReda/nginx-dotnetcore-example)
+* [Opinion | What Happened to America’s Political Center of Gravity? - The New York Times](https://www.nytimes.com/interactive/2019/06/26/opinion/sunday/republican-platform-far-right.html)
+* [documentation/dot-net-multi-docker.md at dd9fa88c45079f2ddc5f18ea542eb3504f0ba7ff · peelmicro/documentation](https://github.com/peelmicro/documentation/blob/dd9fa88c45079f2ddc5f18ea542eb3504f0ba7ff/projects/dot-net-multi-docker.md)
+* [dotnet-docker/README.md at master · dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker/blob/master/samples/README.md)
+* [uikit/uikit: A lightweight and modular front-end framework for developing fast and powerful web interfaces](https://github.com/uikit/uikit)
+* [Documentation · TypeScript](https://www.typescriptlang.org/docs/home.html)
+* [rafaelfgx/DotNetCoreArchitecture: Architecture with .NET Core 2.2, C#, ASP.NET Core, Entity Framework Core, Angular 8, Clean Code, SOLID, DDD, Code Analysis and Docker.](https://github.com/rafaelfgx/DotNetCoreArchitecture)
+* [nbarbettini/little-aspnetcore-book: The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0](https://github.com/nbarbettini/little-aspnetcore-book)
+* [Presentations - Rob Richardson](https://robrich.org/presentations)
+* [Coding Militia - YouTube](https://www.youtube.com/channel/UCWwlh9aTz2pGn6q2__yMn_g)
+* [reactide/reactide: Reactide is the first dedicated IDE for React web application development.](https://github.com/reactide/reactide)
+* [Note Taking App - Add Text, Images, Audio, Checklist | Zoho Notebook](https://www.zoho.com/notebook/notebook-for-web.html)
+* [eStory | Visualise the key events of stories](https://estory.io/)
+* [JasonGT (Jason Taylor)](https://github.com/JasonGT)
+* [Clean Architecture with ASP.NET Core 2.1 - YouTube](https://www.youtube.com/watch?v=_lwCVE_XgqI&feature=youtu.be)
+* [JasonGT/NorthwindTraders: Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.](https://github.com/JasonGT/NorthwindTraders)
+* [clean architecture github - Sök på Google](https://www.google.com/search?q=clean%20architecture%20github&ie=utf-8&oe=utf-8&aq=t&authuser=0)
+* [Modulate Homepage](https://modulate.ai/)
+* [Dessa News – Medium](https://medium.com/dessa-news)
+* [Lyrebird • Ultra-Realistic Voice Cloning and Text-to-Speech](https://lyrebird.ai/)
+* [axios/axios: Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
+* [CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+* [seanlane/dotfiles: My .files for a Linux setup](https://github.com/seanlane/dotfiles)
+* [Dagsljusbelysning på nya Ransta skola i Sala - MONDEVERDE](https://www.mondeverde.se/portfolio/dagsljusbelysning-pa-nya-ransta-skola-i-sala/)
+
+* [Python Awesome](https://pythonawesome.com/)
 
 # Resources
 
@@ -12,37 +64,40 @@
 
 # Architecture and Design
 
+## Pending Reads
+
++ [Enterprise Application Architecture with .NET Core - PDF eBook5](https://www.packtpub.com/application-development/enterprise-application-architecture-net-core)
 + [.NET Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/index)
 + [.NET Documentation | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/index)
 + [.NET Application Architecture Guidance](https://www.microsoft.com/net/learn/architecture) [GitHub](https://github.com/dotnet-architecture)
-+ **[system-design-primer](https://github.com/donnemartin/system-design-primer)**
-+ [rafaelfgx/DotNetCoreArchitecture: Architecture with .NET Core 2.2, C#, ASP.NET Core, Entity Framework Core, Angular 8, Clean Code, SOLID, DDD, Code Analysis and Docker.](https://github.com/rafaelfgx/DotNetCoreArchitecture)
-+ [Enterprise Application Architecture with .NET Core - PDF eBook5](https://www.packtpub.com/application-development/enterprise-application-architecture-net-core)
-+ [akkadotnet/akka.net: Port of Akka actors for .NET](https://github.com/akkadotnet/akka.net)
-+ [Authoritative guide to CORS (Cross-Origin Resource Sharing) for REST APIs Moesif’s Musings on Software](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
 + **[The Twelve-Factor App](https://www.12factor.net/backing-services)**
 + [Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/)
-+ **[facebook/flux: Application Architecture for Building User Interfaces](https://github.com/facebook/flux)**
 + **[.NET Microservices Architecture e-book](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook)**
-+ [WSO2Con ASIA 2016: Pattern-Driven Enterprise Architecture: Applying P…](https://www.slideshare.net/wso2.org/wso2con-asia-2016-patterndriven-enterprise-architecture-applying-patterns-in-your-architecture)
-+ [Search · architecture](https://github.com/search?l=C%23&q=architecture&type=Repositories)
-+ **[The Reactive Manifesto](https://www.reactivemanifesto.org/)**
-+ **[eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow)**
 + [Common web application architectures | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures)
-+ [Repository Pattern | DevIQ](https://deviq.com/repository-pattern/)
-+ [Microkernel Architecture - Sök på Google](https://www.google.com/search?q=Microkernel+Architecture&rlz=1C1GCEU_enSE824SE824&oq=Microkernel+Architecture&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
-+ **[Plug-in Architecture - OmarElGabry's Blog - Medium](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)**
-+ [Born for it](https://martinfowler.com/articles/born-for-it.html)
 + [Software architecture patterns](https://www.oreilly.com/ideas/software-architecture-patterns/page/1/introduction) [microkernel](https://www.oreilly.com/ideas/software-architecture-patterns/page/4/microkernel-architecture?source=post_page---------------------------) [event driven](https://www.oreilly.com/ideas/software-architecture-patterns/page/3/event-driven-architecture)
-+ [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
-+ [CQRS](https://martinfowler.com/bliki/CQRS.html)
-+ [Event Sourcing with Lagom on GCP • Ido Shamun](https://shamun.dev/posts/2018-05-09_event-sourcing-with-lagom-on-gcp/)
-+ [FluentValidation • Home](https://fluentvalidation.net/)
-+ [Lagom Framework - Part of Lightbend Platform | @lightbend](https://www.lightbend.com/lagom-framework-part-of-lightbend-platform)
 + [Microservice Architecture: Aligning Principles, Practices, and Culture](https://pdfs.semanticscholar.org/5592/8ff1aca4d765ec7bab9d36efd42fd2b02839.pdf)
 + [Netflix Play API: Building an Evolutionary Architecture](https://www.infoq.com/news/2019/01/netflix-evolution-architecture/)
-+ [Uncle Bob - Payroll Case Study (A full implementation)](http://cleancodejava.com/uncle-bob-payroll-case-study-full-implementation/)
+
+##  Blogs, Samples, Tutorials etc.
+
++ **[system-design-primer](https://github.com/donnemartin/system-design-primer)**
++ **[facebook/flux: Application Architecture for Building User Interfaces](https://github.com/facebook/flux)**
++ [WSO2Con ASIA 2016: Pattern-Driven Enterprise Architecture: Applying P…](https://www.slideshare.net/wso2.org/wso2con-asia-2016-patterndriven-enterprise-architecture-applying-patterns-in-your-architecture)
++ [Search · architecture](https://github.com/search?l=C%23&q=architecture&type=Repositories)
++ **[Plug-in Architecture - OmarElGabry's Blog - Medium](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)**
++ [Born for it](https://martinfowler.com/articles/born-for-it.html)
++ [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 + [S.O.L.I.D- The First 5 Principles of Object Oriented Design - Scotch](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+## DDD, CQRS, Event Sourcing
++ [CQRS](https://martinfowler.com/bliki/CQRS.html)
++ [rafaelfgx/DotNetCoreArchitecture: Architecture with .NET Core 2.2, C#, ASP.NET Core, Entity Framework Core, Angular 8, Clean Code, SOLID, DDD, Code Analysis and Docker.](https://github.com/rafaelfgx/DotNetCoreArchitecture)
++ [Lagom Framework](https://www.lightbend.com/lagom-framework-part-of-lightbend-platform) | [Event Sourcing with Lagom](https://shamun.dev/posts/2018-05-09_event-sourcing-with-lagom-on-gcp/)
++ **[eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow)**
+
+- [Authoritative guide to CORS (Cross-Origin Resource Sharing) for REST APIs Moesif’s Musings on Software](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
+- [Repository Pattern | DevIQ](https://deviq.com/repository-pattern/)
+
 
 ## Clean Architecture
 
@@ -59,6 +114,15 @@
 + [thangchung/clean-code-dotnet: Clean Code concepts and tools adapted for .NET](https://github.com/thangchung/clean-code-dotnet)
 + [Code Complete: A Practical Handbook of Software](https://www.amazon.com/gp/product/0735619670/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=smallbusin007-20&creative=9325&linkCode=as2&creativeASIN=0735619670&linkId=bfd56f3e68c0e5fcb1c41e018312c745)
 + [ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript?utm_source=javascriptweekly&utm_medium=email)
++ [Uncle Bob - Payroll Case Study (A full implementation)](http://cleancodejava.com/uncle-bob-payroll-case-study-full-implementation/)
+
+## Reactive Programming
+
+- [akkadotnet/akka.net: Port of Akka actors for .NET](https://github.com/akkadotnet/akka.net)
+- **[The Reactive Manifesto](https://www.reactivemanifesto.org/)**
+
+- [RxJS 5 Thinking Reactively | Ben Lesh - YouTube](https://www.youtube.com/watch?v=3LKMwkuK0ZE) | [Ben Lesh](https://github.com/benlesh) RxJS
+- 
 
 ## Periodicals & Blogs
 
@@ -67,17 +131,13 @@
 
 ### Journals
 
-+ [Applied Linguistics | Oxford Academic](https://academic.oup.com/applij)
 + [arXiv.org e-Print archive](https://arxiv.org/)
 + [Computing in Science & Engineering Magazine - IEEECS](https://www.computer.org/cise/)
 + [Home: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/home)
 + [https://www.computer.org/csdl](https://www.computer.org/csdl)
-+ [Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-linguistics)
 + [Journal of Machine Learning Research](http://www.jmlr.org/)
 + [Journal of Sociolinguistics - Wiley Online Library](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9841)
 + [Journal of Statistical Software](https://www.jstatsoft.org/index)
-+ [NLP/CL journals sorted by mean 5y/1y impact](http://www.derczynski.com/sheffield/journals.html)
-+ [Nordic Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics)
 + [Web of Science tidskrifter för humanister](https://www.aurora.umu.se/enheter/humfak/forskning/web-of-science-tidskrifter-for-humanister/)
 
 ## Git & Github
@@ -97,16 +157,14 @@
 + [big-data-europe/demo-spark-sensor-data: Demo Spark application to transform data gathered on sensors for a heatmap application](https://github.com/big-data-europe/demo-spark-sensor-data)
 + [pattern_classification](https://github.com/rasbt/pattern_classification)
 + [Trey Ideker Lab, UC, San Diego](https://github.com/idekerlab)
-+ [Ben Lesh](https://github.com/benlesh) RxJS
 + [GitHub - karthenjamin/data_recipes](https://github.com/karthenjamin/data_recipes)
 + [mattilyra (Matti Lyra)](https://github.com/mattilyra)
 + [kjordahl (Kelsey Jordahl) · GitHub](https://github.com/kjordahl)
 
 -------------------
 
-# Tools / technology to check out
+# Tools / technologies to check out
 
-+ [RxJS 5 Thinking Reactively | Ben Lesh - YouTube](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
 + [Learn the DSDM principles](https://www.knowledgetrain.co.uk/resources/practice/the-dsdm-principles)
 + [OMG SysML Home](http://www.omgsysml.org/)
 + [Overview - pgAdmin 4 - Redmine - PostgreSQL community](https://redmine.postgresql.org/projects/pgadmin4)
@@ -157,6 +215,8 @@
 + [Cake](https://cakebuild.net/)
 + [NancyFx/Nancy](https://github.com/NancyFx/Nancy)
 + **[IdentityServer4](http://docs.identityserver.io/en/latest/)**
+
+- [FluentValidation](https://fluentvalidation.net/)
 
 ### Learning
 

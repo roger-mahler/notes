@@ -59,3 +59,25 @@
 + [datas-frame – Modern Pandas (Part 2): Method Chaining](http://tomaugspurger.github.io/method-chaining.html)
 + [Test & Code - Python Testing & Development](https://testandcode.com/)
 + [Presentations by PyCon 2019 - Speaker Deck](https://speakerdeck.com/pycon2019)
+
+### GIS / Geocoding
+
+- [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro#GeocodingResponses) [tutorial](https://www.shanelynn.ie/batch-geocoding-in-python-with-google-geocoding-api/)
+- [ArcGIS API for Python | ArcGIS for Developers](https://developers.arcgis.com/python/)
+- [Cartopy Homepage](http://scitools.org.uk/cartopy/)
+- [Toponym Resolution in Text: “Which Sheffield is it?” (paper)](https://pdfs.semanticscholar.org/4ce0/94d00e251a1efe8eef4ffb05d23c3606bdc3.pdf)
+- [batchcoordinates - free and easy geocoding](http://freegeocoding.com/index.html)
+- [Basemap tutorial](http://www.datadependence.com/2016/06/creating-map-visualisations-in-python/) [Installing](http://matplotlib.org/basemap/users/installing.html)
+- [Geonames](http://www.geonames.org/export/free-geocoding.html)
+- [GeoPandas](http://geopandas.org/geocoding.html) [Geocoding tutorial](https://automating-gis-processes.github.io/2016/Lesson3-geocoding.html)
+- [GEOS](http://trac.osgeo.org/geos)
+- [List of Online Geocoding Systems](https://geoservices.tamu.edu/Services/Geocode/OtherGeocoders/)
+- [NatGeo Mapmaker Interactive](https://mapmaker.nationalgeographic.org/)
+- [Tutorial Geopandas #1](https://automating-gis-processes.github.io/2016/Lesson2-overview-pandas-geopandas.html) [#2](http://geoffboeing.com/2014/09/using-geopandas-windows/)
+- [python - Plotting a Map with geopy and matplotlib in Jupyter Notebook - Stack Overflow](https://stackoverflow.com/questions/40491340/plotting-a-map-with-geopy-and-matplotlib-in-jupyter-notebook)
+- [Python for geo-people · GitHub](https://github.com/Python-for-geo-people)
+- [geoplot](http://www.residentmar.io/geoplot)
+- [geopy](http://geopy.readthedocs.io/) [GitHub](https://github.com/geopy/geopy)
+- [gisgraphy - Webservices for geonames and openstreetmap data](http://www.gisgraphy.com/)
+
+### 

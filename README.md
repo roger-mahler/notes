@@ -1,28 +1,21 @@
 # Stuff to keep in mind
 
-+ [Daily feed](#my_daily_feed) | [Communities](#communities)
-+ [DevOps](#devops)
-+ [Python](#python)
-+ [NodeJS](https://raw.githubusercontent.com/moklick/nodejs-stuff/master/README.md) (external)
-+ [BrowZine](https://browzine.com/libraries/232/subjects)
-
 # My daily feed
 
-## Blogs and people
+## People
 
 + [Clean Coder Blog](http://blog.cleancoder.com/)
-+ [David Walsh Blog](https://davidwalsh.name/)
-+ [Joel on Software](https://www.joelonsoftware.com/)
 + [Martin Fowler](http://www.martinfowler.com/bliki/)
-+ [Scott Hanselman](https://www.hanselman.com/) [Blog](http://hanselman.com/blog) dotnet
++ [Scott Hanselman](https://www.hanselman.com/) | [Blog](http://hanselman.com/blog) dotnet
 + **[Steve Sanderson](http://blog.stevensanderson.com/)** **[Github](https://github.com/SteveSanderson)** dotnet
 + **[Jon Skeet](https://codeblog.jonskeet.uk/)** dotnet
 + [Jimmy Bogard](https://jimmybogard.com/) dotnet
-+ [Jupyter Blog](https://blog.jupyter.org/)
 + [Greg Young (@gregyoung) | Twitter](https://twitter.com/gregyoung)
 
 -------------
 
++ [David Walsh Blog](https://davidwalsh.name/)
++ [Joel on Software](https://www.joelonsoftware.com/)
 + [the morning paper | Adrian Colyer](https://blog.acolyer.org/) AI, ML
 + [Udi Dahan](http://udidahan.weblogs.us/?blog=true)
 
@@ -30,10 +23,14 @@
 
 ## Blogs & Communities
 
++ [Talkingdotnet](https://www.talkingdotnet.com/)
+
+-------------
+
 + [Netflix](http://techblog.netflix.com/) | [Twitter](https://blog.twitter.com/) | [Mozilla](https://blog.mozilla.org/) | [Facebook](https://code.facebook.com/posts/) | [Uber](https://eng.uber.com/) | [.NET](https://devblogs.microsoft.com/dotnet/)
++ [Jupyter Blog](https://blog.jupyter.org/)
 + [The JavaScript Playground](http://javascriptplayground.com/)
 + **[The Daily Brew](http://blog.cwa.me.uk/)**
-+ [Talkingdotnet](https://www.talkingdotnet.com/)
 + [Software Engineering](https://www.damienbod.com/)
 + [Code Opinion](https://codeopinion.com/)
 + [CodeBetter](http://codebetter.com/)

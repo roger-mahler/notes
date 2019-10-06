@@ -19,7 +19,6 @@
 
 + [Analysis Methods and Tools - Introduction to Text Analysis - LibGuides at Duke University](http://guides.library.duke.edu/c.php?g=289707&p=1930856)
 + [explosion/spacy-notebooks: 💫 Jupyter notebooks for spaCy examples and tutorials](https://github.com/explosion/spacy-notebooks)
-+ [How did they make that? – Miriam Posner's Blog](http://miriamposner.com/blog/how-did-they-make-that/)
 + [TiesdeKok/Python\_NLP\_Tutorial: This repository provides everything to get started with Python for Text Mining / Natural Language Processing (NLP)](https://github.com/TiesdeKok/Python_NLP_Tutorial)
 + [personal/text\_analysis\_tutorial\_unrun.ipynb at master · bhargavvader/personal](https://github.com/bhargavvader/personal/blob/master/notebooks/text_analysis_tutorial/text_analysis_tutorial_unrun.ipynb)
 + [personal/topic\_modelling\_unrun.ipynb at master · bhargavvader/personal](https://github.com/bhargavvader/personal/blob/master/notebooks/text_analysis_tutorial/topic_modelling_unrun.ipynb)
@@ -45,8 +44,13 @@
 + [Penn Treebank P.O.S. Tags](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 + [Natural Language Processing Centre](https://nlp.fi.muni.cz/en/NLPCentre)
 + [SWEGRAM - Annotation and Analysis of Swedish Text](http://stp.lingfil.uu.se/swegram_dev)
-+ **[The Stanford Natural Language Processing Group](https://nlp.stanford.edu/software/CRF-NER.shtml)** [Software](http://nlp.stanford.edu/software/)
++ **[The Stanford Natural Language Processing Group](https://nlp.stanford.edu/software/CRF-NER.shtml)** |[Software](http://nlp.stanford.edu/software/)
 + [klintan (Andreas Klintberg) · GitHub](https://github.com/klintan)
++ [NLP/CL journals sorted by mean 5y/1y impact](http://www.derczynski.com/sheffield/journals.html)
++ [Nordic Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics)
++ [Applied Linguistics | Oxford Academic](https://academic.oup.com/applij)
++ [Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-linguistics)
++ 
 
 ### Tools and Frameworks
 
@@ -76,26 +80,6 @@
 + [titipata/cooccurence](https://github.com/titipata/cooccurence/)
 + [nlp-hal](https://github.com/mmedek/nlp-hal/)
 + [The Normalization of Occurrence and Co-occurrence Matrices...](https://arxiv.org/ftp/arxiv/papers/1503/1503.08944.pdf)
-
-### GIS / Geocoding
-
-+ [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro#GeocodingResponses) [tutorial](https://www.shanelynn.ie/batch-geocoding-in-python-with-google-geocoding-api/)
-+ [ArcGIS API for Python | ArcGIS for Developers](https://developers.arcgis.com/python/)
-+ [Cartopy Homepage](http://scitools.org.uk/cartopy/)
-+ [Toponym Resolution in Text: “Which Sheffield is it?” (paper)](https://pdfs.semanticscholar.org/4ce0/94d00e251a1efe8eef4ffb05d23c3606bdc3.pdf)
-+ [batchcoordinates - free and easy geocoding](http://freegeocoding.com/index.html)
-+ [Basemap tutorial](http://www.datadependence.com/2016/06/creating-map-visualisations-in-python/) [Installing](http://matplotlib.org/basemap/users/installing.html)
-+ [Geonames](http://www.geonames.org/export/free-geocoding.html)
-+ [GeoPandas](http://geopandas.org/geocoding.html) [Geocoding tutorial](https://automating-gis-processes.github.io/2016/Lesson3-geocoding.html)
-+ [GEOS](http://trac.osgeo.org/geos)
-+ [List of Online Geocoding Systems](https://geoservices.tamu.edu/Services/Geocode/OtherGeocoders/)
-+ [NatGeo Mapmaker Interactive](https://mapmaker.nationalgeographic.org/)
-+ [Tutorial Geopandas #1](https://automating-gis-processes.github.io/2016/Lesson2-overview-pandas-geopandas.html) [#2](http://geoffboeing.com/2014/09/using-geopandas-windows/)
-+ [python - Plotting a Map with geopy and matplotlib in Jupyter Notebook - Stack Overflow](https://stackoverflow.com/questions/40491340/plotting-a-map-with-geopy-and-matplotlib-in-jupyter-notebook)
-+ [Python for geo-people · GitHub](https://github.com/Python-for-geo-people)
-+ [geoplot](http://www.residentmar.io/geoplot)
-+ [geopy](http://geopy.readthedocs.io/) [GitHub](https://github.com/geopy/geopy)
-+ [gisgraphy - Webservices for geonames and openstreetmap data](http://www.gisgraphy.com/)
 
 ### Keyword Extraction
 
@@ -238,9 +222,9 @@
 
 + [(37) Matti Lyra - Evaluating Topic Models - YouTube](https://www.youtube.com/watch?v=UkmIljRIG_M)
 + [(4) Prof. David Blei - Probabilistic Topic Models and User Behavior - YouTube](https://www.youtube.com/watch?v=FkckgwMHP2s)
-+ [\[0708.4149\] On the complexity of nonnegative matrix factorization](https://arxiv.org/abs/0708.4149)
-+ [\[1412.5404\] Word Network Topic Model: A Simple but General Solution for Short and Imbalanced Texts](https://arxiv.org/abs/1412.5404)
-+ [\[1508.01011\] Learning from LDA using Deep Neural Networks](https://arxiv.org/abs/1508.01011)
++ [On the complexity of nonnegative matrix factorization](https://arxiv.org/abs/0708.4149)
++ [Word Network Topic Model: A Simple but General Solution for Short and Imbalanced Texts](https://arxiv.org/abs/1412.5404)
++ [Learning from LDA using Deep Neural Networks](https://arxiv.org/abs/1508.01011)
 + [035\_LDA\_CornellMovieDialogs - Databricks - LaMaStExhttps://lamastex.github.io/scalable-data-science/.../035\_LDA\_CornellMovieDialogs.html](https://lamastex.github.io/scalable-data-science/sds/2/2/db/035_LDA_CornellMovieDialogs.html)
 + [2017\_fntir\_tm\_applications.pdf](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 + [ajbc/tmv: topic model visualization](https://github.com/ajbc/tmv)
