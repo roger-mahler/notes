@@ -3,6 +3,8 @@
 
 + [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 + [Deep Learning Frameworks for NLP in Python](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)
++ [How to Build Your Own Logistic Regression Model in Python](https://www.kdnuggets.com/2019/10/build-logistic-regression-model-python.html)
++ [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 
 -----------------------
 

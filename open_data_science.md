@@ -82,3 +82,19 @@
 + [When we share, everyone wins - Creative Commons](https://creativecommons.org/)
 + **[Terms of Service; Didn't Read](https://tosdr.org/)**
 
+## NEW
+
+* [scipy.stats.chi2_contingency — SciPy v0.14.0 Reference Guide](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.chi2_contingency.html)
+* [sklearn.cluster.KMeans — scikit-learn 0.22 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+* [Welcome to papermill — papermill 1.2.1 documentation](https://papermill.readthedocs.io/en/latest/)
+* [Word Frequency Distributions | R. Harald Baayen | Springer](https://www.springer.com/gp/book/9780792370178)
+* [python - Moving average or running mean - Stack Overflow](https://stackoverflow.com/questions/13728392/moving-average-or-running-mean)
+* [A landscape of data – working with digital resources within and beyond DARIAH | SpringerLink](https://link.springer.com/article/10.1007/s42803-019-00008-6)
+* [Chi-Square Goodness of Fit Test: Definition](https://stattrek.com/statistics/dictionary.aspx?definition=chi-square%20goodness%20of%20fit%20test)
+* [Chi-Square Statistic: How to Calculate It / Distribution - Statistics How To](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/chi-square/)
+* [Cluster analysis - Wikipedia](https://en.wikipedia.org/wiki/Cluster_analysis#Distribution-based_clustering)
+* [Creating multiple subplots using plt.subplots — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/subplots_demo.html)
+* [defeo/jupyterhub-docker: A configuration for a JupyterHub+DockerSpawner+CASAuthenticator server with Traefik proxy, based on docker-compose](https://github.com/defeo/jupyterhub-docker/)
+* [Deploying a containerized JupyterHub server with Docker · OpenDreamKit](https://opendreamkit.org/2018/10/17/jupyterhub-docker/)
+* [Home Page - Select or create a notebook](https://hub.gke.mybinder.org/user/cesardelatorre--jupyter-samples-axxslwce/tree)
+* [jupyterhub/the-littlest-jupyterhub: Simple JupyterHub distribution for 1-100 users on a single server](https://github.com/jupyterhub/the-littlest-jupyterhub)

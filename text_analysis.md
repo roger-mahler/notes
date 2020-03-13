@@ -50,7 +50,7 @@
 + [Nordic Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics)
 + [Applied Linguistics | Oxford Academic](https://academic.oup.com/applij)
 + [Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-linguistics)
-+ 
++
 
 ### Tools and Frameworks
 
@@ -408,3 +408,11 @@
 + [Proceedings of the Workshop on Interactive Language Learning, Visualization, and Interfaces](https://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf)
 + [Research Blog: Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
 + [infect-dl-2014.pdf](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf)
++ [Tracking Progress in Natural Language Processing | NLP-progress](http://nlpprogress.com/)
++ [Linguistic glossary](https://www.uni-due.de/ELE/LinguisticGlossary.html)
++ [Marcus Klang - Lunds universitet](https://portal.research.lu.se/portal/sv/persons/marcus-klang(540dd4d3-38a0-480b-855c-478f5f3e4c4b).html)
++ [NLP-projekt ska förbättra språkförståelsen i svenska AI applikationer | Lindholmen Science Park](https://www.lindholmen.se/nyheter/nlp-projekt-ska-forbattra-sprakforstaelsen-i-svenska-ai-applikationer)
++ [NoDaLiDa (@NoDaLiDa) / Twitter](https://twitter.com/nodalida)
++ [NoDaLiDa 2019, Turku, Finland](https://nodalida2019.org/)
++ [notesjor/corpusexplorer2.0: Korpuslinguistik war noch nie so einfach...](https://github.com/notesjor/corpusexplorer2.0)
+
