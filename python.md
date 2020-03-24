@@ -22,7 +22,6 @@
 + [ioam](https://pypi.org/user/ioam/)
 + [pattern](https://github.com/clips/pattern)
 + [csvkit](https://github.com/wireservice/csvkit)
-+ (for alternative to [tornado](http://www.tornadoweb.org/en/stable/) see [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python))
 + [intake](https://media.readthedocs.org/pdf/intake/latest/intake.pdf)
 + [dask](http://dask.pydata.org/en/latest/dataframe.html)
 + [pygsheets](https://github.com/nithinmurali/pygsheets)
@@ -35,11 +34,13 @@
 + [cufflinks](https://github.com/santosjorge/cufflinks)
 + [burnash/gspread](https://github.com/burnash/gspread) Google Spreadsheets Python API
 + [pyviz](http://pyviz.org/) [YouTube](https://www.youtube.com/watch?v=DGLi-UWReM8) [Tutorial](https://www.youtube.com/watch?v=aZ1G_Q7ovmc)
-+ [ibis-project/ibis: A pandas-like deferred expression system, with first-class SQL support (Impala, PostgreSQL, SQLite, ...)](https://github.com/ibis-project/ibis)
-+ [googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services](https://github.com/googlemaps/google-maps-services-python)
-+ [openeventdata/mordecai: Custom-built full text and event geoparsing](https://github.com/openeventdata/mordecai)
++ [ibis-project/ibis](https://github.com/ibis-project/ibis)
++ [googlemaps/google-maps-services-python](https://github.com/googlemaps/google-maps-services-python)
++ [openeventdata/mordecai geoparsing](https://github.com/openeventdata/mordecai)
++ [web2py.com](http://web2py.com/)
++ [Jinja | The Pallets Projects](https://palletsprojects.com/p/jinja/)
 
-# Learning
+## Learning
 
 + [YouTube](https://www.youtube.com/watch?v=G0rQ7AEl5LA)
 + [Python for Undergraduate Engineers](https://pythonforundergradengineers.com/index5.html)
@@ -49,8 +50,34 @@
 + [Mining Twitter Data with Python (Part 6 – Sentiment Analysis Basics) – Marco Bonzanini](https://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/)
 + [Pandas](https://www.youtube.com/watch?v=6Pzg-UY1VDg)
 
-# Other things to read
+## Other things to read
 
 + [What are some good Python projects on GitHub? - Quora](https://www.quora.com/What-are-some-good-Python-projects-on-GitHub)
 + [Best written projects on Python GitHub? : Python](https://www.reddit.com/r/Python/comments/1ls7vq/best_written_projects_on_python_github/)
 + [Python Web Servers: Comparison of Python Frameworks for Web Apps | DigitalOcean](https://www.digitalocean.com/community/tutorials/a-comparison-of-web-servers-for-python-based-web-applications)
++ [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
++ [datas-frame – Modern Pandas (Part 2): Method Chaining](http://tomaugspurger.github.io/method-chaining.html)
++ [Test & Code - Python Testing & Development](https://testandcode.com/)
++ [Presentations by PyCon 2019 - Speaker Deck](https://speakerdeck.com/pycon2019)
+
+### GIS / Geocoding
+
+- [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro#GeocodingResponses) [tutorial](https://www.shanelynn.ie/batch-geocoding-in-python-with-google-geocoding-api/)
+- [ArcGIS API for Python | ArcGIS for Developers](https://developers.arcgis.com/python/)
+- [Cartopy Homepage](http://scitools.org.uk/cartopy/)
+- [Toponym Resolution in Text: “Which Sheffield is it?” (paper)](https://pdfs.semanticscholar.org/4ce0/94d00e251a1efe8eef4ffb05d23c3606bdc3.pdf)
+- [batchcoordinates - free and easy geocoding](http://freegeocoding.com/index.html)
+- [Basemap tutorial](http://www.datadependence.com/2016/06/creating-map-visualisations-in-python/) [Installing](http://matplotlib.org/basemap/users/installing.html)
+- [Geonames](http://www.geonames.org/export/free-geocoding.html)
+- [GeoPandas](http://geopandas.org/geocoding.html) [Geocoding tutorial](https://automating-gis-processes.github.io/2016/Lesson3-geocoding.html)
+- [GEOS](http://trac.osgeo.org/geos)
+- [List of Online Geocoding Systems](https://geoservices.tamu.edu/Services/Geocode/OtherGeocoders/)
+- [NatGeo Mapmaker Interactive](https://mapmaker.nationalgeographic.org/)
+- [Tutorial Geopandas #1](https://automating-gis-processes.github.io/2016/Lesson2-overview-pandas-geopandas.html) [#2](http://geoffboeing.com/2014/09/using-geopandas-windows/)
+- [python - Plotting a Map with geopy and matplotlib in Jupyter Notebook - Stack Overflow](https://stackoverflow.com/questions/40491340/plotting-a-map-with-geopy-and-matplotlib-in-jupyter-notebook)
+- [Python for geo-people · GitHub](https://github.com/Python-for-geo-people)
+- [geoplot](http://www.residentmar.io/geoplot)
+- [geopy](http://geopy.readthedocs.io/) [GitHub](https://github.com/geopy/geopy)
+- [gisgraphy - Webservices for geonames and openstreetmap data](http://www.gisgraphy.com/)
+
+### 

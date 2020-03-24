@@ -1,14 +1,12 @@
 # Visualization stuff to check out
 
 + [History of Infographics](http://infowetrust.com/scroll/)
-+ [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 + [DrasticData - Data visualization - Treemapping - Data Projects](http://www.drasticdata.nl/index.htm)
 + [ImageMagick: Command-line Tools: Montage](http://www.imagemagick.org/script/montage.php)
 + [Scaling (resizing) with ffmpeg – FFmpeg](https://trac.ffmpeg.org/wiki/Scaling%20(resizing)%20with%20ffmpeg)
 + [Create a thumbnail image every X seconds of the video – FFmpeg](https://trac.ffmpeg.org/wiki/Create%20a%20thumbnail%20image%20every%20X%20seconds%20of%20the%20video)
 + [SVG Charting Libraries - The Media Temple Blog](http://mediatemple.net/blog/tips/svg-charting-libraries/)
-+ [p5.js | home](https://p5js.org/)
-+ [processing/p5.js: p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —](https://github.com/processing/p5.js)
++ [p5.js](https://p5js.org/) | [Github](https://github.com/processing/p5.js)
 + [The infographics of xkcd | halfblog.net](https://halfblog.net/2013/01/22/infographics-of-xkcd/)
 + [VOSviewer - Visualizing scientific landscapes](http://www.vosviewer.com/)
 + [Visual Matters | How Data Visualization Drives Business Impact](http://visualmatters.com/)

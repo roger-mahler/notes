@@ -1,39 +1,36 @@
 # Stuff to keep in mind
 
-+ [Daily feed](#my_daily_feed) | [Communities](#communities)
-+ [DevOps](#devops)
-+ [Python](#python)
-+ [NodeJS](https://raw.githubusercontent.com/moklick/nodejs-stuff/master/README.md) (external)
-+ [BrowZine](https://browzine.com/libraries/232/subjects)
-
 # My daily feed
 
-## Blogs and people
+## People
 
 + [Clean Coder Blog](http://blog.cleancoder.com/)
-+ [David Walsh Blog](https://davidwalsh.name/)
-+ [Joel on Software](https://www.joelonsoftware.com/)
 + [Martin Fowler](http://www.martinfowler.com/bliki/)
-+ [Scott Hanselman](https://www.hanselman.com/) [Blog](http://hanselman.com/blog) dotnet
++ [Scott Hanselman](https://www.hanselman.com/) | [Blog](http://hanselman.com/blog) dotnet
 + **[Steve Sanderson](http://blog.stevensanderson.com/)** **[Github](https://github.com/SteveSanderson)** dotnet
 + **[Jon Skeet](https://codeblog.jonskeet.uk/)** dotnet
 + [Jimmy Bogard](https://jimmybogard.com/) dotnet
-+ [Jupyter Blog](https://blog.jupyter.org/)
++ [Greg Young (@gregyoung) | Twitter](https://twitter.com/gregyoung)
 
 -------------
 
-+ [Ben Lesh](https://github.com/benlesh) RxJS
++ [David Walsh Blog](https://davidwalsh.name/)
++ [Joel on Software](https://www.joelonsoftware.com/)
 + [the morning paper | Adrian Colyer](https://blog.acolyer.org/) AI, ML
 + [Udi Dahan](http://udidahan.weblogs.us/?blog=true)
 
 -------------
 
-## Communities
+## Blogs & Communities
 
++ [Talkingdotnet](https://www.talkingdotnet.com/)
+
+-------------
+
++ [Netflix](http://techblog.netflix.com/) | [Twitter](https://blog.twitter.com/) | [Mozilla](https://blog.mozilla.org/) | [Facebook](https://code.facebook.com/posts/) | [Uber](https://eng.uber.com/) | [.NET](https://devblogs.microsoft.com/dotnet/)
++ [Jupyter Blog](https://blog.jupyter.org/)
 + [The JavaScript Playground](http://javascriptplayground.com/)
 + **[The Daily Brew](http://blog.cwa.me.uk/)**
-+ [.NET Blog](https://devblogs.microsoft.com/dotnet/)
-+ [Talkingdotnet](https://www.talkingdotnet.com/)
 + [Software Engineering](https://www.damienbod.com/)
 + [Code Opinion](https://codeopinion.com/)
 + [CodeBetter](http://codebetter.com/)
@@ -42,14 +39,12 @@
 + [Developers Forum](http://www.webdeveloper.com/forum/)
 + [Dream In Code](http://www.dreamincode.net/forums/)
 + [DZone](https://dzone.com/)
-+ [Facebook Code](https://code.facebook.com/posts/)
 + [Free Code Camp](https://medium.freecodecamp.com/)
 + [Hacker News](https://news.ycombinator.com/)
 + [Lobsters](https://lobste.rs/)
 + [OpenDev](https://opendev.org/)
 + [Reddit Programming](https://www.reddit.com/r/programming/)
 + [Stack Exchange](https://stackexchange.com/)
-+ Tech Blogs: [Netflix](http://techblog.netflix.com/) [Twitter](https://blog.twitter.com/) [Mozilla](https://blog.mozilla.org/) [Facebook](https://code.facebook.com/posts/)
 + [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
 + [WebDevelopers](https://www.webdeveloper.com/)
 + **[Coding Horror](https://blog.codinghorror.com/)**
@@ -57,7 +52,10 @@
 + [Dusted Code](https://dusted.codes/)
 + [A List Apart](https://alistapart.com/)
 + [CSS Tricks](https://css-tricks.com/)
-+ [Codrops Blog](https://css-tricks.com/)
++ [Codrops Blog](https://tympanus.net/codrops/)
++ [Podcasts aggregator: The Changelog](https://changelog.com/)
++ [Hacker Noon](https://hackernoon.com/)
++ [Blog – Kalele](https://kalele.io/blog/)
 
 # DevChats
 
@@ -72,14 +70,62 @@
 
 + [Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/)
 + [Topic: awesome · GitHub](https://github.com/topics/awesome)
-+ [Awesome Developers, Streaming](https://github.com/bnb/awesome-developer-streams)
-+ [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
-+ [Awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
-+ [Awesome Python](https://awesome-python.com/)
-+ [Awesome Postgres](https://dhamaniasad.github.io/awesome-postgres/)
-+ [Awesome-electron](https://github.com/sindresorhus/awesome-electron)
 + [Fort Awesome](https://github.com/FortAwesome)
-+ [Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software#utilities)
++ [Python](https://awesome-python.com/)
++ [Postgres](https://dhamaniasad.github.io/awesome-postgres/)
++ [angular: A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
++ [bash: A curated list of delightful Bash scripts and resources.](https://github.com/awesome-lists/awesome-bash)
++ [browser-extensions-for-github: A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
++ [channels: 📺 A collection of useful YouTube channels for javascript developers and web designers](https://github.com/andrew--r/channels)
++ [cheatsheet: awesome cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
++ [Checklist-Checklist: 🌈 A Curated List of Checklists ✔︎✔︎](https://github.com/huyingjie/Checklist-Checklist)
++ [courses: List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
++ [creative-coding: Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.](https://github.com/terkelg/awesome-creative-coding)
++ [css-protips: A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
++ [datascience: Curated list of Python resources for data science.](https://github.com/r0f1/datascience)
++ [ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources](https://github.com/heynickc/awesome-ddd)
++ [deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
++ [design-patterns: A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns)
++ [design-systems: 💅🏻 ⚒ A collection of awesome design systems](https://github.com/alexpate/awesome-design-systems)
++ [Design-Tools: The best design tools for everything 👉](https://github.com/LisaDziuba/Awesome-Design-Tools)
++ [design: 🌟Curated design resources](https://github.com/gztchan/awesome-design)
++ [developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming](https://github.com/bnb/awesome-developer-streams)
++ [docker: A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
++ [dotfiles: A curated list of dotfiles resources.](https://github.com/webpro/awesome-dotfiles)
++ [elasticsearch: A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!](https://github.com/dzharii/awesome-elasticsearch)
++ [electron: Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron)
++ [for-beginners: A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
++ [frontend-dev-bookmarks: Manually curated collection of resources for frontend web developers.](https://github.com/dypsilon/frontend-dev-bookmarks)
++ [github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
++ [guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)
++ [guides: Design and development guides](https://github.com/NARKOZ/guides)
++ [Hacking: A collection of various awesome lists for hackers, pentesters and security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
++ [hacking: A curated list of awesome Hacking tutorials, tools and resources](https://github.com/carpedm20/awesome-hacking)
++ [home-assistant: A curated list of amazingly awesome Home Assistant resources.](https://github.com/frenck/awesome-home-assistant)
++ [javascript-learning: A tiny list limited to the best JavaScript Learning Resources](https://github.com/micromata/awesome-javascript-learning)
++ [Linux-Software: Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software#utilities)
++ [Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
++ [machine-learning: Awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
++ [microservices: A curated list of Microservice Architecture related principles and technologies.](https://github.com/mfornos/awesome-microservices)
++ [Mind-Expanding-Books: Books that will blow your mind](https://github.com/hackerkid/Mind-Expanding-Books)
++ [network-analysis: A curated list of awesome network analysis resources.](https://github.com/briatte/awesome-network-analysis)
++ [nlp: A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
++ [nodejs: Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
++ [npm: Awesome npm resources and tips](https://github.com/sindresorhus/awesome-npm)
++ [online-ide: 🌩️ A list of awesome online development environments](https://github.com/styfle/awesome-online-ide)
++ [podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts)
++ [python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
++ [react-components: Catalog of React Components & Libraries](https://github.com/brillout/awesome-react-components)
++ [react-hooks: Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
++ [readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
++ [redux: Awesome list of Redux examples and middlewares](https://github.com/xgrommx/awesome-redux)
++ [selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.](https://github.com/Kickball/awesome-selfhosted)
++ [stacks: A curated list of tech stacks for building different applications & features](https://github.com/stackshareio/awesome-stacks)
++ [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
++ [vscode: 🎨 A curated list of delightful VS Code packages and resources.](https://github.com/viatsko/awesome-vscode)
++ [web-scraping: List of libraries, tools and APIs for web scraping and data processing.](https://github.com/lorien/awesome-web-scraping)
++ [webpack: A curated list of awesome Webpack resources, libraries and tools](https://github.com/webpack-contrib/awesome-webpack)
++ [windows: An awesome & curated list of best applications and tools for Windows.](https://github.com/Awesome-Windows/Awesome)
 
 ---------------------------------
 
@@ -95,6 +141,10 @@
 + [Corps Business](http://www.vincehuston.org/books/marines_30.html)
 + [Swedish meeting etiquette- your business meeting planning guide](http://businessculture.org/northern-europe/sweden/meeting-etiquette/)
 + [Unicode HOWTO](https://docs.python.org/3.6/howto/unicode.html)
++ [What is a Fourier Series? (Explained by drawing circles)](https://www.youtube.com/watch?v=ds0cmAV-Yek)
++ [The Feynman Lectures on Physics Vol. I Ch. 40: The Principles of Statistical Mechanics](http://www.feynmanlectures.caltech.edu/I_40.html)
++ [Scientific Approaches to the Fine-Tuning Problem - The Nature of Reality — The Nature of Reality | PBS](http://www.pbs.org/wgbh/nova/blogs/physics/2012/12/scientific-approaches-to-the-fine-tuning-problem/)
++ [Introduction to eigenvalues and eigenvectors (video) | Khan Academy](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
 
  # Resources
 
@@ -104,8 +154,6 @@
 + [Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/)
 + [Twitter Developers](https://dev.twitter.com/docs)
 + [DevDocs API Documentation](https://devdocs.io/)
-+ [The New York Times](https://github.com/NYTimes)
-+ [Trey Ideker Lab, UC, San Diego](https://github.com/idekerlab)
 
 # Things to read
 
@@ -118,6 +166,9 @@
 + [Think Stats 2nd ed.](https://github.com/AllenDowney/ThinkStats2)
 + [NLTK Book](http://www.nltk.org/book_1ed/)
 + [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
++ [Git - Book](https://git-scm.com/book/en/v2)
++ [Data Science: Theories, Models, Algorithms, and Analytics](http://srdas.github.io/MLBook/DigitalPortfolios.html#portfolio-characteristics)
++ [ProQuest Ebook Central - Detail page](https://ebookcentral.proquest.com/lib/umeaub-ebooks/detail.action?docID=691813)
 
 ## Articles to read (move to Zotero)
 
@@ -154,26 +205,24 @@
 + [Learn R, Python & Data Science Online | DataCamp](https://www.datacamp.com/)
 + [Learn to code | Codecademy](https://www.codecademy.com/)
 + [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/?siteID=TnL5HPStwNw-ly6bNUWWVpkiJdRUE1.CKg&LSNPUBID=TnL5HPStwNw)
-+ [Pluralsight | Unlimited Online Developer, IT and Creative Training](https://www.pluralsight.com/)
++ [Pluralsigh](www.pluralsight.com)
++ [Tyler McGinnis](https://tylermcginnis.com/)
++ [Skills Matter](https://skillsmatter.com/)
++ [Software Carpentry](https://software-carpentry.org/)
+
+## YouTube channels / Streams to check out
+
++ [Ardalis - YouTube](https://www.youtube.com/user/SteveSmithArdalis/videos)
++ [Coding with Jesse - YouTube](https://www.youtube.com/channel/UC6Ak0hMzttpQYAxzTe8kx7A)
++ [Corey Schafer - YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
++ [The Ultimate List Of Developer Podcasts - Simple Programmer](http://simpleprogrammer.com/2014/03/10/ultimate-list-developer-podcasts/)
+
 
 ## Other
 
-+ [Learn to code with live streams from the best developers!](https://medium.com/swlh/learn-to-code-with-live-streams-from-the-best-developers-932dcfdbb87)
-+ [Channel 9: Videos for developers from the people building Microsoft Products & Services](https://channel9.msdn.com/)
-+ [Corey Schafer - YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-+ [Data Science: Theories, Models, Algorithms, and Analytics](http://srdas.github.io/MLBook/DigitalPortfolios.html#portfolio-characteristics)
-+ [datas-frame – Modern Pandas (Part 2): Method Chaining](http://tomaugspurger.github.io/method-chaining.html)
-+ [Introduction to eigenvalues and eigenvectors (video) | Khan Academy](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
-+ [LearnCode.academy - YouTube](https://www.youtube.com/learncodeacademy/)
-+ [Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/)
-+ [Open Learning - OpenLearn - Open University](http://www.open.edu/openlearn/)
-+ [S.O.L.I.D- The First 5 Principles of Object Oriented Design - Scotch](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-+ [Skills Matter](https://skillsmatter.com/)
-+ [Software Carpentry](https://software-carpentry.org/)
-+ [The Feynman Lectures on Physics Vol. I Ch. 40: The Principles of Statistical Mechanics](http://www.feynmanlectures.caltech.edu/I_40.html)
-+ [The Ultimate List Of Developer Podcasts - Simple Programmer](http://simpleprogrammer.com/2014/03/10/ultimate-list-developer-podcasts/)
-+ [Top 50 Free Online Courses of All Time | Class Central](https://www.class-central.com/collection/top-free-online-courses)
-+ [Tyler McGinnis](https://tylermcginnis.com/)
-+ [Welcome to OzoBlockly](http://ozoblockly.com/)
-+ [What is a Fourier Series? (Explained by drawing circles)](https://www.youtube.com/watch?v=ds0cmAV-Yek)
-+ [Coding with Jesse - YouTube](https://www.youtube.com/channel/UC6Ak0hMzttpQYAxzTe8kx7A)
++ [(1) As a programmer, how do you deal with information overload? - Quora](https://www.quora.com/As-a-programmer-how-do-you-deal-with-information-overload)
++ [Supporting minority languages : issues and problems with creating and using spoken language corpora](http://umu.diva-portal.org/smash/record.jsf?language=sv&pid=diva2%3A895566&dswid=-1647)
++ [Unicode character table](http://unicode-table.com/en/)
++ [Unicode Lookup: convert special characters](http://unicodelookup.com/#comma/1)
++ [VOICE - Project](https://www.univie.ac.at/voice/)
++ [Writing for Developers: Some Rational Techniques (YUIConf 2012)](https://www.slideshare.net/evangoer/writing-for-developers-some-rational-techniques-yuiconf-2012)

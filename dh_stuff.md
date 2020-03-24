@@ -1,35 +1,37 @@
 
 # Blogs / Centers / People
 
-+ **[About the Programming Historian | Programming Historian](http://programminghistorian.org/)**
-+ **[Techne – Stanford Literary Lab](https://litlab.stanford.edu/techne/)**
 + [Pelle Snickars](http://pellesnickars.se/) [twitter](https://twitter.com/pellesnickars)
 + [Miriam Posner's Blog](http://miriamposner.com/blog)
 + [Patrik Svensson](http://patriksv.net/)
-+ [Rejecting the gender binary: a vector-space operation](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)
 + [Ryan Heuser](http://ryanheuser.org/) [Github](https://github.com/quadrismegistus)
-+ [Cultural Analytics Lab](http://lab.culturalanalytics.info/)
-+ [Pamphlets – Stanford Literary Lab](https://litlab.stanford.edu/pamphlets/)
 + [Jo Guldi](https://www.joguldi.com)
 + [Scott B. Weingart](https://www.scottbot.net)
-+ [Distant Viewing Lab](https://www.distantviewing.org/)
 + [Christopher Kullenberg](http://www.christopherkullenberg.se/)
 + [Ted Underwood](https://github.com/tedunderwood)
++ **[Programming Historian](http://programminghistorian.org/)**
 + [Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/)
++ [Distant Viewing Lab](https://www.distantviewing.org/)
++ **[Pamphlets – Stanford Literary Lab](https://litlab.stanford.edu/pamphlets/)**
++ **[Techne – Stanford Literary Lab](https://litlab.stanford.edu/techne/)**
 + [DARIAH | Digital Research Infrastructure for the Arts and Humanities](https://www.dariah.eu/)
++ [Cultural Analytics Lab](http://lab.culturalanalytics.info/)
++ [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
++ [Medical History Workshop Community](http://medicalhistworkshop.org/community/#)
++ [mediaX at Stanford University](http://mediax.stanford.edu/)
++ [Social Media Lab | "Making sense of a networked world"](http://socialmedialab.ca/)
++ [COMHIS](https://github.com/COMHIS)
++ [DigitalGeographyLab](https://github.com/DigitalGeographyLab)
++ [dvt/dvt](https://github.com/distant-viewing/dvt/tree/master/dvt)
 
 # DH Tools
 
 + [DH Box](http://dhbox.org/)
-+ [7 command-line tools for data science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
 + [clarkgrubb/data-tools: File format conversion tools](https://github.com/clarkgrubb/data-tools)
-+ [web2py.com](http://web2py.com/)
 + [TAPoR](http://tapor.ca/tools)
-+ [Caffe Demos](http://demo.caffe.berkeleyvision.org/classify_url?imageurl=http%3A%2F%2Fi.telegraph.co.uk%2Fmultimedia%2Farchive%2F02351%2Fcross-eyed-cat_2351472k.jpg)
-+ [sgsinclair/Voyant](https://github.com/sgsinclair/Voyant)
 + [Desmos | Graphing Calculator](https://www.desmos.com/calculator)
 + [Charts | Google Developers](https://google-developers.appspot.com/chart/)
-+ [dhresourcesforprojectbuilding \[licensed for non-commercial use only\] / Digital Humanities Tools](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools)
++ [dhresourcesforprojectbuilding \ / Digital Humanities Tools](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools)
 + [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/)
 + [Mapping the emotions of London | Stanford News](http://news.stanford.edu/2017/03/20/mapping-emotions-london/)
 
@@ -48,3 +50,6 @@
 + [Data-Science-For-Digital-Humanities](https://github.com/pydataberlin/conf2017slides/blob/master/data_science_for_digital_humanities/2017-07-02-Data-Science-For-Digital-Humanities-PyData-Berlin.pdf)
 + [Riksbankens Jubileumsfond | Tyck till om infrastruktur för humaniora](https://rj.se/Forskningsnyheter/2018/tyck-till-om-infrastruktur-for-forskning/?fbclid=IwAR2Ow0QP9CXnJVDUoIlMw7t9ZdPgxtDOn6JPQGfGsRxJU9jqieH37D3UXp0)
 + [AltspaceVR Inc | Be there, together.](https://altvr.com/)
++ [Rejecting the gender binary: a vector-space operation](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)
++ [Caught Red-Handed: Toward Practical Video-Based Subsequences Matching in the Presence of Real-World Transformations](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w16/papers/Frahm_Caught_Red-Handed_Toward_CVPR_2017_paper.pdf)
+

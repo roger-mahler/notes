@@ -19,7 +19,6 @@
 
 + [Analysis Methods and Tools - Introduction to Text Analysis - LibGuides at Duke University](http://guides.library.duke.edu/c.php?g=289707&p=1930856)
 + [explosion/spacy-notebooks: 💫 Jupyter notebooks for spaCy examples and tutorials](https://github.com/explosion/spacy-notebooks)
-+ [How did they make that? – Miriam Posner's Blog](http://miriamposner.com/blog/how-did-they-make-that/)
 + [TiesdeKok/Python\_NLP\_Tutorial: This repository provides everything to get started with Python for Text Mining / Natural Language Processing (NLP)](https://github.com/TiesdeKok/Python_NLP_Tutorial)
 + [personal/text\_analysis\_tutorial\_unrun.ipynb at master · bhargavvader/personal](https://github.com/bhargavvader/personal/blob/master/notebooks/text_analysis_tutorial/text_analysis_tutorial_unrun.ipynb)
 + [personal/topic\_modelling\_unrun.ipynb at master · bhargavvader/personal](https://github.com/bhargavvader/personal/blob/master/notebooks/text_analysis_tutorial/topic_modelling_unrun.ipynb)
@@ -45,8 +44,13 @@
 + [Penn Treebank P.O.S. Tags](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 + [Natural Language Processing Centre](https://nlp.fi.muni.cz/en/NLPCentre)
 + [SWEGRAM - Annotation and Analysis of Swedish Text](http://stp.lingfil.uu.se/swegram_dev)
-+ **[The Stanford Natural Language Processing Group](https://nlp.stanford.edu/software/CRF-NER.shtml)** [Software](http://nlp.stanford.edu/software/)
++ **[The Stanford Natural Language Processing Group](https://nlp.stanford.edu/software/CRF-NER.shtml)** |[Software](http://nlp.stanford.edu/software/)
 + [klintan (Andreas Klintberg) · GitHub](https://github.com/klintan)
++ [NLP/CL journals sorted by mean 5y/1y impact](http://www.derczynski.com/sheffield/journals.html)
++ [Nordic Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics)
++ [Applied Linguistics | Oxford Academic](https://academic.oup.com/applij)
++ [Journal of Linguistics | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-linguistics)
++
 
 ### Tools and Frameworks
 
@@ -76,26 +80,6 @@
 + [titipata/cooccurence](https://github.com/titipata/cooccurence/)
 + [nlp-hal](https://github.com/mmedek/nlp-hal/)
 + [The Normalization of Occurrence and Co-occurrence Matrices...](https://arxiv.org/ftp/arxiv/papers/1503/1503.08944.pdf)
-
-### GIS / Geocoding
-
-+ [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro#GeocodingResponses) [tutorial](https://www.shanelynn.ie/batch-geocoding-in-python-with-google-geocoding-api/)
-+ [ArcGIS API for Python | ArcGIS for Developers](https://developers.arcgis.com/python/)
-+ [Cartopy Homepage](http://scitools.org.uk/cartopy/)
-+ [Toponym Resolution in Text: “Which Sheffield is it?” (paper)](https://pdfs.semanticscholar.org/4ce0/94d00e251a1efe8eef4ffb05d23c3606bdc3.pdf)
-+ [batchcoordinates - free and easy geocoding](http://freegeocoding.com/index.html)
-+ [Basemap tutorial](http://www.datadependence.com/2016/06/creating-map-visualisations-in-python/) [Installing](http://matplotlib.org/basemap/users/installing.html)
-+ [Geonames](http://www.geonames.org/export/free-geocoding.html)
-+ [GeoPandas](http://geopandas.org/geocoding.html) [Geocoding tutorial](https://automating-gis-processes.github.io/2016/Lesson3-geocoding.html)
-+ [GEOS](http://trac.osgeo.org/geos)
-+ [List of Online Geocoding Systems](https://geoservices.tamu.edu/Services/Geocode/OtherGeocoders/)
-+ [NatGeo Mapmaker Interactive](https://mapmaker.nationalgeographic.org/)
-+ [Tutorial Geopandas #1](https://automating-gis-processes.github.io/2016/Lesson2-overview-pandas-geopandas.html) [#2](http://geoffboeing.com/2014/09/using-geopandas-windows/)
-+ [python - Plotting a Map with geopy and matplotlib in Jupyter Notebook - Stack Overflow](https://stackoverflow.com/questions/40491340/plotting-a-map-with-geopy-and-matplotlib-in-jupyter-notebook)
-+ [Python for geo-people · GitHub](https://github.com/Python-for-geo-people)
-+ [geoplot](http://www.residentmar.io/geoplot)
-+ [geopy](http://geopy.readthedocs.io/) [GitHub](https://github.com/geopy/geopy)
-+ [gisgraphy - Webservices for geonames and openstreetmap data](http://www.gisgraphy.com/)
 
 ### Keyword Extraction
 
@@ -238,9 +222,9 @@
 
 + [(37) Matti Lyra - Evaluating Topic Models - YouTube](https://www.youtube.com/watch?v=UkmIljRIG_M)
 + [(4) Prof. David Blei - Probabilistic Topic Models and User Behavior - YouTube](https://www.youtube.com/watch?v=FkckgwMHP2s)
-+ [\[0708.4149\] On the complexity of nonnegative matrix factorization](https://arxiv.org/abs/0708.4149)
-+ [\[1412.5404\] Word Network Topic Model: A Simple but General Solution for Short and Imbalanced Texts](https://arxiv.org/abs/1412.5404)
-+ [\[1508.01011\] Learning from LDA using Deep Neural Networks](https://arxiv.org/abs/1508.01011)
++ [On the complexity of nonnegative matrix factorization](https://arxiv.org/abs/0708.4149)
++ [Word Network Topic Model: A Simple but General Solution for Short and Imbalanced Texts](https://arxiv.org/abs/1412.5404)
++ [Learning from LDA using Deep Neural Networks](https://arxiv.org/abs/1508.01011)
 + [035\_LDA\_CornellMovieDialogs - Databricks - LaMaStExhttps://lamastex.github.io/scalable-data-science/.../035\_LDA\_CornellMovieDialogs.html](https://lamastex.github.io/scalable-data-science/sds/2/2/db/035_LDA_CornellMovieDialogs.html)
 + [2017\_fntir\_tm\_applications.pdf](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 + [ajbc/tmv: topic model visualization](https://github.com/ajbc/tmv)
@@ -394,7 +378,6 @@
 + [arxiv.org/ftp/arxiv/papers/1204/1204.0191.pdf](http://arxiv.org/ftp/arxiv/papers/1204/1204.0191.pdf)
 + [www.l3s.de/~tahmasebi/Diplomarbeit\_Niklas.pdf](http://www.l3s.de/~tahmasebi/Diplomarbeit_Niklas.pdf)
 + [From keyword searching to concept mining – Pim Huijnen's blog](http://pimhuijnen.com/2015/12/04/from-keyword-searching-to-concept-mining/#more-1170)
-+ [kjordahl (Kelsey Jordahl) · GitHub](https://github.com/kjordahl)
 + [lamvi - Language Model Visual Inspector](http://ronxin.github.io/lamvi/dist/#model=word2vec&backend=browser&query_in=darcy&query_out=G_bennet,B_circumstances)
 + [tcool / nlpviz-batch · GitLab](https://gitlab.com/tcool/nlpviz-batch)
 + [sp0915-song.dvi](https://www.researchgate.net/profile/Yangqiu_Song/publication/220269735_Topic_and_keyword_re-ranking_for_LDA-based_topic_modeling/links/551e3c950cf29dcabb03a72e.pdf)
@@ -402,7 +385,7 @@
 + [NRC Emotion Lexicon](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
 + [A Survey of Text Classification Algorithms (paper)](https://pdfs.semanticscholar.org/4152/070bd6cd28cc44bc9e54ab3e641426382e75.pdf)
 
-#
+# Assorted
 
 + [Text Mining with R](https://www.tidytextmining.com/topicmodeling.html)
 + [PUB\_nlp/PUB\_NLP\_slides.ipynb at master · mattilyra/PUB\_nlp · GitHub](https://github.com/mattilyra/PUB_nlp/blob/master/PUB_NLP_slides.ipynb)
@@ -415,3 +398,21 @@
 + [ezubaric (Jordan Boyd-Graber)](https://github.com/ezubaric)
 + [Continuous Bag of Words (CBOW) – From Data to Decisions](https://iksinc.online/tag/continuous-bag-of-words-cbow/)
 + **[General Architecture for Text Engineering - Wikipedia](https://en.wikipedia.org/wiki/General_Architecture_for_Text_Engineering)**
++ [tesseract-ocr/tesseract (docker)](https://github.com/tesseract-ocr/tesseract/wiki/4.0-Docker-Containers)
++ [John Snow Labs - Spark NLP](https://nlp.johnsnowlabs.com/)
++ [JohnSnowLabs/spark-nlp: State of the Art Natural Language Processing](https://github.com/johnsnowlabs/spark-nlp)
++ [Top 10 Python Libraries for Natural Language Processing (2018)](https://kleiber.me/blog/2018/02/25/top-10-python-nlp-libraries-2018/)
++ [Top 10 Python NLP Libraries For 2019](https://www.analyticsindiamag.com/top-10-python-nlp-libraries-for-2019/)
++ [Word Embeddings — polyglot 16.07.04 documentation](https://polyglot.readthedocs.io/en/latest/Embeddings.html)
++ [Roundup of Python NLP Libraries - NLP-FOR-HACKERS](https://nlpforhackers.io/libraries/)
++ [Proceedings of the Workshop on Interactive Language Learning, Visualization, and Interfaces](https://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf)
++ [Research Blog: Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
++ [infect-dl-2014.pdf](http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf)
++ [Tracking Progress in Natural Language Processing | NLP-progress](http://nlpprogress.com/)
++ [Linguistic glossary](https://www.uni-due.de/ELE/LinguisticGlossary.html)
++ [Marcus Klang - Lunds universitet](https://portal.research.lu.se/portal/sv/persons/marcus-klang(540dd4d3-38a0-480b-855c-478f5f3e4c4b).html)
++ [NLP-projekt ska förbättra språkförståelsen i svenska AI applikationer | Lindholmen Science Park](https://www.lindholmen.se/nyheter/nlp-projekt-ska-forbattra-sprakforstaelsen-i-svenska-ai-applikationer)
++ [NoDaLiDa (@NoDaLiDa) / Twitter](https://twitter.com/nodalida)
++ [NoDaLiDa 2019, Turku, Finland](https://nodalida2019.org/)
++ [notesjor/corpusexplorer2.0: Korpuslinguistik war noch nie so einfach...](https://github.com/notesjor/corpusexplorer2.0)
+

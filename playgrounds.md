@@ -18,6 +18,7 @@
 + [SQL Fiddle](http://sqlfiddle.com/)
 + [StackEdit](https://stackedit.io/app#)
 + [XSLT Fiddle](http://fiddle.frameless.io/)
++ [theia-ide/theia:](https://github.com/theia-ide/theia)
 
 # Desktop
 

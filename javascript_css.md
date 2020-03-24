@@ -1,8 +1,6 @@
+# Javascript Libraries to check out
 
-# Javascript stuff to keep in mind
-
-# Frameworks / Libraries to check out
-
++ **[JS.coach - Search JS Libraries](https://js.coach/)**
 + **[koa.js](https://koajs.com/)** next generation web framework for node.js
 + [polymer](https://www.polymer-project.org/)
 + [**vuetify](https://vuetifyjs.com) Material Component Framework for Vue.js [Github](https://github.com/vuetifyjs/vuetify)**
@@ -43,6 +41,9 @@
 + [tgdwyer/WebCola: Javascript constraint-based graph layout](https://github.com/tgdwyer/WebCola)
 + [Polymaps](http://polymaps.org/)
 + [jsdom/jsdom: A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js](https://github.com/jsdom/jsdom)
++ [anime.js](https://animejs.com/documentation/)
++ [p5.js Web Editor](https://editor.p5js.org/)
++ [Resemble.js : Image analysis](https://rsmbl.github.io/Resemble.js/)
 
 ## Resources
 
@@ -71,6 +72,7 @@
 + [Mastering ReactJS: Writing Unit Tests for React Components | packtpub.com - YouTube](https://www.youtube.com/watch?v=bnWIBeImVKg)
 + [Collection: JavaScript Game Engines · GitHub](https://github.com/collections/javascript-game-engines)
 + [50 JavaScript Libraries and Plugins for Maps | TechSlides](http://techslides.com/50-javascript-libraries-and-plugins-for-maps)
++ [NodeJS Stuff](https://raw.githubusercontent.com/moklick/nodejs-stuff/master/README.md) (external)
 
 # CSS /SASS / LESS
 
